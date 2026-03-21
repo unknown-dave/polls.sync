@@ -2,42 +2,54 @@
   "domestic": [
     {
       "region": "Österreich",
-      "institute": "Market / Lazarsfeld",
-      "date": "16.10.2025",
+      "institute": "INSA Austria",
+      "date": "25.02.2026",
       "parties": [
         {
           "name": "FPÖ",
           "value": 38.0,
-          "change": 0.0,
+          "change": 1.0,
           "colorHex": "#1257B5"
         },
         {
           "name": "ÖVP",
-          "value": 21.0,
-          "change": 0.0,
+          "value": 19.0,
+          "change": -1.0,
           "colorHex": "#000000"
         },
         {
           "name": "SPÖ",
-          "value": 17.0,
-          "change": 0.0,
+          "value": 19.0,
+          "change": -1.0,
           "colorHex": "#FF3B30"
         },
         {
+          "name": "NEOS",
+          "value": 7.0,
+          "change": -1.0,
+          "colorHex": "#E61E8C"
+        },
+        {
           "name": "Grüne",
-          "value": 11.0,
+          "value": 9.0,
           "change": 0.0,
           "colorHex": "#34C759"
         },
         {
-          "name": "Sonst.",
-          "value": 13.0,
+          "name": "KPÖ",
+          "value": 3.0,
           "change": 0.0,
+          "colorHex": "#A31E22"
+        },
+        {
+          "name": "Sonst.",
+          "value": 5.0,
+          "change": 2.0,
           "colorHex": "#8E8E93"
         }
       ],
-      "sourceURL": "https://www.market.at/newsroom/vertrauensverlust-in-justiz-nach-umstrittenen-urteilen-neos-schrumpfen-und-werden-von-gruenen-abgehaengt/",
-      "fieldworkEnd": "16.10.2025"
+      "sourceURL": "https://www.insa-austria.at/meinungstrend/",
+      "fieldworkEnd": "25.02.2026"
     }
   ],
   "global": [
