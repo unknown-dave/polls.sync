@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Niedersachsen",
+  "country": "Deutschland",
+  "source": "Landesamt für Statistik Niedersachsen",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:17Z",
+  "regions": [
+    {
+      "regionCode": "NI",
+      "regionName": "Niedersachsen",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "09.10.2022",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 33.4,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2022/wahlergebnis.xml"
+    }
+  ]
+}

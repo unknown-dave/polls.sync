@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Mecklenburg-Vorpommern",
+  "country": "Deutschland",
+  "source": "Landeswahlleiterin Mecklenburg-Vorpommern",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:21Z",
+  "regions": [
+    {
+      "regionCode": "MV",
+      "regionName": "Mecklenburg-Vorpommern",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "26.09.2021",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 39.6,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.mvnet.de/dateien/ergebnisse.2021/landtagswahl/html/l_99.html"
+    }
+  ]
+}

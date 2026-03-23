@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Baden-Württemberg",
+  "country": "Deutschland",
+  "source": "Statistisches Landesamt Baden-Württemberg",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:25Z",
+  "regions": [
+    {
+      "regionCode": "BW",
+      "regionName": "Baden-Württemberg",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "08.03.2026",
+      "winningParty": "Grüne",
+      "winningPartyColor": "#34C759",
+      "winningPartyResult": 30.2,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.statistik-bw.de/ltw26/ergebnispraesentation_land_bw.html"
+    }
+  ]
+}

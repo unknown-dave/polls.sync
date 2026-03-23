@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Hamburg",
+  "country": "Deutschland",
+  "source": "Landeswahlamt Hamburg / Statistikamt Nord",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:21Z",
+  "regions": [
+    {
+      "regionCode": "HH",
+      "regionName": "Hamburg",
+      "electionType": "Bürgerschaftswahl",
+      "lastElectionDate": "02.03.2025",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 33.5,
+      "nextElectionDate": null,
+      "sourceURL": "https://www.wahlen-hamburg.de/B%C3%BCrgerschaftswahl_2025/index.html"
+    }
+  ]
+}

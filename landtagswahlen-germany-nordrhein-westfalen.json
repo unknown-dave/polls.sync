@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Nordrhein-Westfalen",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Nordrhein-Westfalen",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:24Z",
+  "regions": [
+    {
+      "regionCode": "NW",
+      "regionName": "Nordrhein-Westfalen",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "15.05.2022",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 35.7,
+      "nextElectionDate": null,
+      "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2022/aktuell/a000lw2200.shtml"
+    }
+  ]
+}

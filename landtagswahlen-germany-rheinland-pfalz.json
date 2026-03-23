@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Rheinland-Pfalz",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Rheinland-Pfalz",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:25Z",
+  "regions": [
+    {
+      "regionCode": "RP",
+      "regionName": "Rheinland-Pfalz",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "22.03.2026",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 31.0,
+      "nextElectionDate": null,
+      "sourceURL": "https://rlp-ltw26.wahlen.23degrees.eu/assets/json/wk/0000000000000.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Schleswig-Holstein",
+  "country": "Deutschland",
+  "source": "Statistikamt Nord / Landeswahlleiter Schleswig-Holstein",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:16Z",
+  "regions": [
+    {
+      "regionCode": "SH",
+      "regionName": "Schleswig-Holstein",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "08.05.2022",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 43.4,
+      "nextElectionDate": null,
+      "sourceURL": "https://www.statistik-nord.de/fileadmin/wahlen/sh/ltw22/ergebnispraesentation.html"
+    }
+  ]
+}

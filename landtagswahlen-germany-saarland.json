@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Saarland",
+  "country": "Deutschland",
+  "source": "Landeswahlleiterin Saarland",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:25Z",
+  "regions": [
+    {
+      "regionCode": "SL",
+      "regionName": "Saarland",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "27.03.2022",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 43.5,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlergebnis.saarland.de/LTW/"
+    }
+  ]
+}

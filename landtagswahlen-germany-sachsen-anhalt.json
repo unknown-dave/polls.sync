@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Sachsen-Anhalt",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Sachsen-Anhalt",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:22Z",
+  "regions": [
+    {
+      "regionCode": "ST",
+      "regionName": "Sachsen-Anhalt",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "06.06.2021",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 37.1,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat1.csv"
+    }
+  ]
+}

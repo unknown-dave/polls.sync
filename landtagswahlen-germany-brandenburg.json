@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Brandenburg",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Brandenburg",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:21Z",
+  "regions": [
+    {
+      "regionCode": "BB",
+      "regionName": "Brandenburg",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "22.09.2024",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 30.9,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/ergebnisse.html"
+    }
+  ]
+}

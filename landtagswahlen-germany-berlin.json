@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Berlin",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Berlin",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:22Z",
+  "regions": [
+    {
+      "regionCode": "BE",
+      "regionName": "Berlin",
+      "electionType": "Abgeordnetenhauswahl",
+      "lastElectionDate": "12.02.2023",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 28.2,
+      "nextElectionDate": null,
+      "sourceURL": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/index.html"
+    }
+  ]
+}

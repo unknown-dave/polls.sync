@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Thüringen",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Thüringen",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:24Z",
+  "regions": [
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "01.09.2024",
+      "winningParty": "AfD",
+      "winningPartyColor": "#007AFF",
+      "winningPartyResult": 32.8,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=Land"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Sachsen",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Sachsen",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:24Z",
+  "regions": [
+    {
+      "regionCode": "SN",
+      "regionName": "Sachsen",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "01.09.2024",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 31.9,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.sachsen.de/landtagswahl-2024-wahlergebnisse.php?_ptabs=%7B%22%23tab-wahlbeteiligung%22%3A1%7D"
+    }
+  ]
+}

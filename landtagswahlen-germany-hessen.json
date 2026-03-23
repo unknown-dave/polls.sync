@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Hessen",
+  "country": "Deutschland",
+  "source": "Landeswahlleiter Hessen",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:25Z",
+  "regions": [
+    {
+      "regionCode": "HE",
+      "regionName": "Hessen",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "08.10.2023",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 34.6,
+      "nextElectionDate": null,
+      "sourceURL": "https://wahlen.hessen-ltw23.23degrees.eu/assets/json/wk/00000000000.json"
+    }
+  ]
+}

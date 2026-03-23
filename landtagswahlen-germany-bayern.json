@@ -1,0 +1,20 @@
+{
+  "name": "Landtagswahlen Germany Bayern",
+  "country": "Deutschland",
+  "source": "Bayerisches Landesamt für Statistik",
+  "verificationMethod": "official-state-source",
+  "updatedAt": "2026-03-23T19:06:25Z",
+  "regions": [
+    {
+      "regionCode": "BY",
+      "regionName": "Bayern",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "08.10.2023",
+      "winningParty": "CSU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 37.0,
+      "nextElectionDate": null,
+      "sourceURL": "https://www.landtagswahl2023.bayern.de/ergebnis_bayern_gesamtstimmen_stimmkreis_mit_sondergebiete_gesamt_aktuell.html"
+    }
+  ]
+}
