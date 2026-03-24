@@ -1,0 +1,17 @@
+{
+  "name": "Kantonswahlen Switzerland Basel-Landschaft",
+  "country": "Schweiz",
+  "source": "Kantonale Einzelfile-Konfiguration",
+  "verificationMethod": "per-canton-file",
+  "updatedAt": "2026-03-24T10:43:55Z",
+  "regions": [
+    {
+      "regionCode": "BL",
+      "regionName": "Basel-Landschaft",
+      "electionType": "Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+    }
+  ]
+}

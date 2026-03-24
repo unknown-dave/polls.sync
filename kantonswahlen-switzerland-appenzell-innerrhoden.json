@@ -1,0 +1,17 @@
+{
+  "name": "Kantonswahlen Switzerland Appenzell Innerrhoden",
+  "country": "Schweiz",
+  "source": "Kantonale Einzelfile-Konfiguration",
+  "verificationMethod": "per-canton-file",
+  "updatedAt": "2026-03-24T10:43:55Z",
+  "regions": [
+    {
+      "regionCode": "AI",
+      "regionName": "Appenzell Innerrhoden",
+      "electionType": "Kantonsparlamentswahl",
+      "winningParty": "Parteilos",
+      "winningPartyColor": "#8E8E93",
+      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+    }
+  ]
+}
