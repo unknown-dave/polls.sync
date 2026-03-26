@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen-Anhalt",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T11:31:55Z",
+  "updatedAt": "2026-03-26T15:05:14Z",
   "regions": [
     {
       "regionCode": "ST",
@@ -62,15 +62,15 @@
         "rank": 5
       },
       {
-        "name": "GR�NE",
+        "name": "Grüne",
         "value": 5.9,
-        "colorHex": "#8E8E93",
+        "colorHex": "#34C759",
         "rank": 6
       },
       {
-        "name": "FREIE W�HLER",
+        "name": "Freie Wähler",
         "value": 3.1,
-        "colorHex": "#8E8E93",
+        "colorHex": "#FF9500",
         "rank": 7
       },
       {
@@ -146,7 +146,7 @@
         "rank": 19
       },
       {
-        "name": "�DP",
+        "name": "ÖDP",
         "value": 0.1,
         "colorHex": "#8E8E93",
         "rank": 20
