@@ -3,18 +3,70 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Hessen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:25Z",
+  "updatedAt": "2026-03-26T11:31:57Z",
   "regions": [
     {
       "regionCode": "HE",
       "regionName": "Hessen",
       "electionType": "Landtagswahl",
       "lastElectionDate": "08.10.2023",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 34.6,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.hessen-ltw23.23degrees.eu/assets/json/wk/00000000000.json"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "HE",
+    "regionName": "Hessen",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "08.10.2023",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CDU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 34.6,
+    "sourceLabel": "Landeswahlleiter Hessen",
+    "sourceURL": "https://wahlen.hessen-ltw23.23degrees.eu/assets/json/wk/00000000000.json",
+    "parties": [
+      {
+        "name": "CDU",
+        "value": 34.6,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "AfD",
+        "value": 18.4,
+        "colorHex": "#007AFF",
+        "rank": 2
+      },
+      {
+        "name": "SPD",
+        "value": 15.1,
+        "colorHex": "#FF3B30",
+        "rank": 3
+      },
+      {
+        "name": "Grüne",
+        "value": 14.8,
+        "colorHex": "#34C759",
+        "rank": 4
+      },
+      {
+        "name": "Sonstige",
+        "value": 12.1,
+        "colorHex": "#8E8E93",
+        "rank": 5
+      },
+      {
+        "name": "FDP",
+        "value": 5.0,
+        "colorHex": "#FFCC00",
+        "rank": 6
+      }
+    ]
+  }
 }

@@ -3,18 +3,124 @@
   "country": "Deutschland",
   "source": "Statistikamt Nord / Landeswahlleiter Schleswig-Holstein",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:16Z",
+  "updatedAt": "2026-03-26T11:31:51Z",
   "regions": [
     {
       "regionCode": "SH",
       "regionName": "Schleswig-Holstein",
       "electionType": "Landtagswahl",
       "lastElectionDate": "08.05.2022",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 43.4,
       "nextElectionDate": null,
       "sourceURL": "https://www.statistik-nord.de/fileadmin/wahlen/sh/ltw22/ergebnispraesentation.html"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "SH",
+    "regionName": "Schleswig-Holstein",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "08.05.2022",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CDU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 43.4,
+    "sourceLabel": "Statistikamt Nord / Landeswahlleiter Schleswig-Holstein",
+    "sourceURL": "https://www.statistik-nord.de/fileadmin/wahlen/sh/ltw22/ergebnispraesentation.html",
+    "parties": [
+      {
+        "name": "CDU",
+        "value": 43.4,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "Grüne",
+        "value": 18.3,
+        "colorHex": "#34C759",
+        "rank": 2
+      },
+      {
+        "name": "SPD",
+        "value": 16.0,
+        "colorHex": "#FF3B30",
+        "rank": 3
+      },
+      {
+        "name": "FDP",
+        "value": 6.4,
+        "colorHex": "#FFCC00",
+        "rank": 4
+      },
+      {
+        "name": "SSW",
+        "value": 5.7,
+        "colorHex": "#003B7A",
+        "rank": 5
+      },
+      {
+        "name": "AfD",
+        "value": 4.4,
+        "colorHex": "#007AFF",
+        "rank": 6
+      },
+      {
+        "name": "Linke",
+        "value": 1.7,
+        "colorHex": "#AF52DE",
+        "rank": 7
+      },
+      {
+        "name": "dieBasis",
+        "value": 1.1,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.7,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 0.7,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 0.6,
+        "colorHex": "#FF9500",
+        "rank": 11
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "Volt",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "Die Humanisten",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "Gesundheitsforschung",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      }
+    ]
+  }
 }

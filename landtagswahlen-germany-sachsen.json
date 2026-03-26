@@ -3,18 +3,148 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:24Z",
+  "updatedAt": "2026-03-26T11:31:57Z",
   "regions": [
     {
       "regionCode": "SN",
       "regionName": "Sachsen",
       "electionType": "Landtagswahl",
       "lastElectionDate": "01.09.2024",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 31.9,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.sachsen.de/landtagswahl-2024-wahlergebnisse.php?_ptabs=%7B%22%23tab-wahlbeteiligung%22%3A1%7D"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "SN",
+    "regionName": "Sachsen",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "01.09.2024",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CDU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 31.9,
+    "sourceLabel": "Landeswahlleiter Sachsen",
+    "sourceURL": "https://wahlen.sachsen.de/landtagswahl-2024-wahlergebnisse.php?_ptabs=%7B%22%23tab-wahlbeteiligung%22%3A1%7D",
+    "parties": [
+      {
+        "name": "CDU",
+        "value": 31.9,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "AfD",
+        "value": 30.6,
+        "colorHex": "#007AFF",
+        "rank": 2
+      },
+      {
+        "name": "BSW",
+        "value": 11.8,
+        "colorHex": "#FF2D55",
+        "rank": 3
+      },
+      {
+        "name": "SPD",
+        "value": 7.3,
+        "colorHex": "#FF3B30",
+        "rank": 4
+      },
+      {
+        "name": "Grüne",
+        "value": 5.1,
+        "colorHex": "#34C759",
+        "rank": 5
+      },
+      {
+        "name": "Linke",
+        "value": 4.5,
+        "colorHex": "#AF52DE",
+        "rank": 6
+      },
+      {
+        "name": "Absolut",
+        "value": 3.0,
+        "colorHex": "#8E8E93",
+        "rank": 7
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 2.3,
+        "colorHex": "#FF9500",
+        "rank": 8
+      },
+      {
+        "name": "FREIE SACHSEN",
+        "value": 2.2,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "TIERSCHUTZ hier!",
+        "value": 1.0,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "FDP",
+        "value": 0.9,
+        "colorHex": "#FFCC00",
+        "rank": 11
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.8,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "BÜNDNIS DEUTSCHLAND",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "WU",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      },
+      {
+        "name": "Bündnis C",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 16
+      },
+      {
+        "name": "dieBasis",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 17
+      },
+      {
+        "name": "BüSo",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 18
+      },
+      {
+        "name": "ÖDP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 19
+      }
+    ]
+  }
 }

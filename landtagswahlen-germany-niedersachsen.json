@@ -3,18 +3,124 @@
   "country": "Deutschland",
   "source": "Landesamt für Statistik Niedersachsen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:17Z",
+  "updatedAt": "2026-03-26T11:31:52Z",
   "regions": [
     {
       "regionCode": "NI",
       "regionName": "Niedersachsen",
       "electionType": "Landtagswahl",
       "lastElectionDate": "09.10.2022",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "SPD",
       "winningPartyColor": "#FF3B30",
       "winningPartyResult": 33.4,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2022/wahlergebnis.xml"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "NI",
+    "regionName": "Niedersachsen",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "09.10.2022",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "SPD",
+    "winningPartyColor": "#FF3B30",
+    "winningPartyResult": 33.4,
+    "sourceLabel": "Landesamt für Statistik Niedersachsen",
+    "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2022/wahlergebnis.xml",
+    "parties": [
+      {
+        "name": "SPD",
+        "value": 33.4,
+        "colorHex": "#FF3B30",
+        "rank": 1
+      },
+      {
+        "name": "CDU",
+        "value": 28.1,
+        "colorHex": "#000000",
+        "rank": 2
+      },
+      {
+        "name": "Grüne",
+        "value": 14.5,
+        "colorHex": "#34C759",
+        "rank": 3
+      },
+      {
+        "name": "AfD",
+        "value": 11.0,
+        "colorHex": "#007AFF",
+        "rank": 4
+      },
+      {
+        "name": "Sonstige",
+        "value": 5.6,
+        "colorHex": "#8E8E93",
+        "rank": 5
+      },
+      {
+        "name": "FDP",
+        "value": 4.7,
+        "colorHex": "#FFCC00",
+        "rank": 6
+      },
+      {
+        "name": "Linke",
+        "value": 2.7,
+        "colorHex": "#AF52DE",
+        "rank": 7
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 1.5,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      },
+      {
+        "name": "dieBasis",
+        "value": 1.0,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.9,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 0.8,
+        "colorHex": "#FF9500",
+        "rank": 11
+      },
+      {
+        "name": "Volt",
+        "value": 0.5,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "Gesundheitsforschung",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "Die Humanisten Niedersachsen",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      }
+    ]
+  }
 }

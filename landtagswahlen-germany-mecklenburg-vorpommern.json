@@ -3,18 +3,178 @@
   "country": "Deutschland",
   "source": "Landeswahlleiterin Mecklenburg-Vorpommern",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:21Z",
+  "updatedAt": "2026-03-26T11:31:53Z",
   "regions": [
     {
       "regionCode": "MV",
       "regionName": "Mecklenburg-Vorpommern",
       "electionType": "Landtagswahl",
       "lastElectionDate": "26.09.2021",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "SPD",
       "winningPartyColor": "#FF3B30",
       "winningPartyResult": 39.6,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.mvnet.de/dateien/ergebnisse.2021/landtagswahl/html/l_99.html"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "MV",
+    "regionName": "Mecklenburg-Vorpommern",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "26.09.2021",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "SPD",
+    "winningPartyColor": "#FF3B30",
+    "winningPartyResult": 39.6,
+    "sourceLabel": "Landeswahlleiterin Mecklenburg-Vorpommern",
+    "sourceURL": "https://wahlen.mvnet.de/dateien/ergebnisse.2021/landtagswahl/html/l_99.html",
+    "parties": [
+      {
+        "name": "SPD",
+        "value": 39.6,
+        "colorHex": "#FF3B30",
+        "rank": 1
+      },
+      {
+        "name": "AfD",
+        "value": 16.7,
+        "colorHex": "#007AFF",
+        "rank": 2
+      },
+      {
+        "name": "CDU",
+        "value": 13.3,
+        "colorHex": "#000000",
+        "rank": 3
+      },
+      {
+        "name": "Linke",
+        "value": 9.9,
+        "colorHex": "#AF52DE",
+        "rank": 4
+      },
+      {
+        "name": "Grüne",
+        "value": 6.3,
+        "colorHex": "#34C759",
+        "rank": 5
+      },
+      {
+        "name": "FDP",
+        "value": 5.8,
+        "colorHex": "#FFCC00",
+        "rank": 6
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 1.7,
+        "colorHex": "#8E8E93",
+        "rank": 7
+      },
+      {
+        "name": "dieBasis",
+        "value": 1.7,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 1.1,
+        "colorHex": "#FF9500",
+        "rank": 9
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.8,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "NPD",
+        "value": 0.8,
+        "colorHex": "#8E8E93",
+        "rank": 11
+      },
+      {
+        "name": "FREiER HORIZONT",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "TIERSCHUTZ hier!",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "UNABHÄNGIGE",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      },
+      {
+        "name": "Gesundheitsforschung",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 16
+      },
+      {
+        "name": "Team Todenhöfer",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 17
+      },
+      {
+        "name": "Bündnis C",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 18
+      },
+      {
+        "name": "DKP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 19
+      },
+      {
+        "name": "DiB",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 20
+      },
+      {
+        "name": "Die Humanisten",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 21
+      },
+      {
+        "name": "ÖDP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 22
+      },
+      {
+        "name": "FPA",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 23
+      },
+      {
+        "name": "LKR",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 24
+      }
+    ]
+  }
 }

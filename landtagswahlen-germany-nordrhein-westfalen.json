@@ -3,18 +3,202 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Nordrhein-Westfalen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:24Z",
+  "updatedAt": "2026-03-26T11:31:57Z",
   "regions": [
     {
       "regionCode": "NW",
       "regionName": "Nordrhein-Westfalen",
       "electionType": "Landtagswahl",
       "lastElectionDate": "15.05.2022",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 35.7,
       "nextElectionDate": null,
       "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2022/aktuell/a000lw2200.shtml"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "NW",
+    "regionName": "Nordrhein-Westfalen",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "15.05.2022",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CDU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 35.7,
+    "sourceLabel": "Landeswahlleiter Nordrhein-Westfalen",
+    "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2022/aktuell/a000lw2200.shtml",
+    "parties": [
+      {
+        "name": "CDU",
+        "value": 35.7,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "SPD",
+        "value": 26.7,
+        "colorHex": "#FF3B30",
+        "rank": 2
+      },
+      {
+        "name": "Grüne",
+        "value": 18.2,
+        "colorHex": "#34C759",
+        "rank": 3
+      },
+      {
+        "name": "FDP",
+        "value": 5.9,
+        "colorHex": "#FFCC00",
+        "rank": 4
+      },
+      {
+        "name": "AfD",
+        "value": 5.4,
+        "colorHex": "#007AFF",
+        "rank": 5
+      },
+      {
+        "name": "Linke",
+        "value": 2.1,
+        "colorHex": "#AF52DE",
+        "rank": 6
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 1.1,
+        "colorHex": "#8E8E93",
+        "rank": 7
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 1.1,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      },
+      {
+        "name": "dieBasis",
+        "value": 0.8,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 0.7,
+        "colorHex": "#FF9500",
+        "rank": 10
+      },
+      {
+        "name": "Volt",
+        "value": 0.6,
+        "colorHex": "#8E8E93",
+        "rank": 11
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "FAMILIE",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "Team Todenhöfer",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "BIG",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      },
+      {
+        "name": "DSP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 16
+      },
+      {
+        "name": "Die Humanisten",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 17
+      },
+      {
+        "name": "Die Urbane.",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 18
+      },
+      {
+        "name": "Gesundheitsforschung",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 19
+      },
+      {
+        "name": "LIEBE",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 20
+      },
+      {
+        "name": "LfK",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 21
+      },
+      {
+        "name": "PdF",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 22
+      },
+      {
+        "name": "ZENTRUM",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 23
+      },
+      {
+        "name": "ÖDP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 24
+      },
+      {
+        "name": "DIE VIOLETTEN",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 25
+      },
+      {
+        "name": "DKP",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 26
+      },
+      {
+        "name": "MLPD",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 27
+      },
+      {
+        "name": "neo",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 28
+      }
+    ]
+  }
 }

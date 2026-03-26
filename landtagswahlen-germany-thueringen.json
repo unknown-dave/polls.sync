@@ -3,18 +3,124 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Thüringen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:24Z",
+  "updatedAt": "2026-03-26T11:31:56Z",
   "regions": [
     {
       "regionCode": "TH",
       "regionName": "Thüringen",
       "electionType": "Landtagswahl",
       "lastElectionDate": "01.09.2024",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "AfD",
       "winningPartyColor": "#007AFF",
       "winningPartyResult": 32.8,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=Land"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "TH",
+    "regionName": "Thüringen",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "01.09.2024",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "AfD",
+    "winningPartyColor": "#007AFF",
+    "winningPartyResult": 32.8,
+    "sourceLabel": "Landeswahlleiter Thüringen",
+    "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=Land",
+    "parties": [
+      {
+        "name": "AfD",
+        "value": 32.8,
+        "colorHex": "#007AFF",
+        "rank": 1
+      },
+      {
+        "name": "CDU",
+        "value": 23.6,
+        "colorHex": "#000000",
+        "rank": 2
+      },
+      {
+        "name": "BSW",
+        "value": 15.8,
+        "colorHex": "#FF2D55",
+        "rank": 3
+      },
+      {
+        "name": "Linke",
+        "value": 13.1,
+        "colorHex": "#AF52DE",
+        "rank": 4
+      },
+      {
+        "name": "SPD",
+        "value": 6.1,
+        "colorHex": "#FF3B30",
+        "rank": 5
+      },
+      {
+        "name": "GR�NE",
+        "value": 3.2,
+        "colorHex": "#8E8E93",
+        "rank": 6
+      },
+      {
+        "name": "FREIE W�HLER",
+        "value": 1.3,
+        "colorHex": "#8E8E93",
+        "rank": 7
+      },
+      {
+        "name": "FDP",
+        "value": 1.1,
+        "colorHex": "#FFCC00",
+        "rank": 8
+      },
+      {
+        "name": "TIERSCHUTZ hier!",
+        "value": 1.0,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "WU",
+        "value": 0.6,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "FAMILIE",
+        "value": 0.5,
+        "colorHex": "#8E8E93",
+        "rank": 11
+      },
+      {
+        "name": "B�NDNIS DEUTSCHLAND",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "�DP / Familie ..",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "MLPD",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      }
+    ]
+  }
 }

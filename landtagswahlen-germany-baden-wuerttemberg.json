@@ -3,18 +3,166 @@
   "country": "Deutschland",
   "source": "Statistisches Landesamt Baden-Württemberg",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:25Z",
+  "updatedAt": "2026-03-26T11:31:58Z",
   "regions": [
     {
       "regionCode": "BW",
       "regionName": "Baden-Württemberg",
       "electionType": "Landtagswahl",
       "lastElectionDate": "08.03.2026",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "Grüne",
       "winningPartyColor": "#34C759",
       "winningPartyResult": 30.2,
       "nextElectionDate": null,
       "sourceURL": "https://wahlen.statistik-bw.de/ltw26/ergebnispraesentation_land_bw.html"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "BW",
+    "regionName": "Baden-Württemberg",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "08.03.2026",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "Grüne",
+    "winningPartyColor": "#34C759",
+    "winningPartyResult": 30.2,
+    "sourceLabel": "Statistisches Landesamt Baden-Württemberg",
+    "sourceURL": "https://wahlen.statistik-bw.de/ltw26/ergebnispraesentation_land_bw.html",
+    "parties": [
+      {
+        "name": "Grüne",
+        "value": 30.2,
+        "colorHex": "#34C759",
+        "rank": 1
+      },
+      {
+        "name": "CDU",
+        "value": 29.7,
+        "colorHex": "#000000",
+        "rank": 2
+      },
+      {
+        "name": "AfD",
+        "value": 18.8,
+        "colorHex": "#007AFF",
+        "rank": 3
+      },
+      {
+        "name": "SPD",
+        "value": 5.5,
+        "colorHex": "#FF3B30",
+        "rank": 4
+      },
+      {
+        "name": "FDP",
+        "value": 4.4,
+        "colorHex": "#FFCC00",
+        "rank": 5
+      },
+      {
+        "name": "Linke",
+        "value": 4.4,
+        "colorHex": "#AF52DE",
+        "rank": 6
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 1.9,
+        "colorHex": "#FF9500",
+        "rank": 7
+      },
+      {
+        "name": "BSW",
+        "value": 1.4,
+        "colorHex": "#FF2D55",
+        "rank": 8
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 0.9,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "Volt",
+        "value": 0.9,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 11
+      },
+      {
+        "name": "dieBasis",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "Bündnis C",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "PDR",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "WerteUnion",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      },
+      {
+        "name": "ÖDP",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 16
+      },
+      {
+        "name": "Die Gerechtigkeitspartei",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 17
+      },
+      {
+        "name": "KlimalisteBW",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 18
+      },
+      {
+        "name": "PdF",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 19
+      },
+      {
+        "name": "Verjüngungsforschung",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 20
+      },
+      {
+        "name": "PdH",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 21
+      },
+      {
+        "name": "Übrige",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 22
+      }
+    ]
+  }
 }

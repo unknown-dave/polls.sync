@@ -3,18 +3,160 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen-Anhalt",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:22Z",
+  "updatedAt": "2026-03-26T11:31:55Z",
   "regions": [
     {
       "regionCode": "ST",
       "regionName": "Sachsen-Anhalt",
       "electionType": "Landtagswahl",
       "lastElectionDate": "06.06.2021",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 37.1,
       "nextElectionDate": null,
       "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat1.csv"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "ST",
+    "regionName": "Sachsen-Anhalt",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "06.06.2021",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CDU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 37.1,
+    "sourceLabel": "Landeswahlleiter Sachsen-Anhalt",
+    "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat1.csv",
+    "parties": [
+      {
+        "name": "CDU",
+        "value": 37.1,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "AfD",
+        "value": 20.8,
+        "colorHex": "#007AFF",
+        "rank": 2
+      },
+      {
+        "name": "Linke",
+        "value": 11.0,
+        "colorHex": "#AF52DE",
+        "rank": 3
+      },
+      {
+        "name": "SPD",
+        "value": 8.4,
+        "colorHex": "#FF3B30",
+        "rank": 4
+      },
+      {
+        "name": "FDP",
+        "value": 6.4,
+        "colorHex": "#FFCC00",
+        "rank": 5
+      },
+      {
+        "name": "GR�NE",
+        "value": 5.9,
+        "colorHex": "#8E8E93",
+        "rank": 6
+      },
+      {
+        "name": "FREIE W�HLER",
+        "value": 3.1,
+        "colorHex": "#8E8E93",
+        "rank": 7
+      },
+      {
+        "name": "dieBasis",
+        "value": 1.5,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      },
+      {
+        "name": "Tierschutzpartei",
+        "value": 1.4,
+        "colorHex": "#8E8E93",
+        "rank": 9
+      },
+      {
+        "name": "Gartenpartei",
+        "value": 0.8,
+        "colorHex": "#8E8E93",
+        "rank": 10
+      },
+      {
+        "name": "Die PARTEI",
+        "value": 0.7,
+        "colorHex": "#8E8E93",
+        "rank": 11
+      },
+      {
+        "name": "TIERSCHUTZ hier!",
+        "value": 0.6,
+        "colorHex": "#8E8E93",
+        "rank": 12
+      },
+      {
+        "name": "Tierschutzallianz",
+        "value": 0.5,
+        "colorHex": "#8E8E93",
+        "rank": 13
+      },
+      {
+        "name": "Gesundheitsforschung",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 14
+      },
+      {
+        "name": "PIRATEN",
+        "value": 0.4,
+        "colorHex": "#8E8E93",
+        "rank": 15
+      },
+      {
+        "name": "NPD",
+        "value": 0.3,
+        "colorHex": "#8E8E93",
+        "rank": 16
+      },
+      {
+        "name": "FBM",
+        "value": 0.2,
+        "colorHex": "#8E8E93",
+        "rank": 17
+      },
+      {
+        "name": "Die Humanisten",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 18
+      },
+      {
+        "name": "Klimaliste ST",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 19
+      },
+      {
+        "name": "�DP",
+        "value": 0.1,
+        "colorHex": "#8E8E93",
+        "rank": 20
+      },
+      {
+        "name": "LKR",
+        "value": 0.0,
+        "colorHex": "#8E8E93",
+        "rank": 21
+      }
+    ]
+  }
 }

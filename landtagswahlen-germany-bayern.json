@@ -3,18 +3,82 @@
   "country": "Deutschland",
   "source": "Bayerisches Landesamt für Statistik",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-23T19:06:25Z",
+  "updatedAt": "2026-03-26T11:31:58Z",
   "regions": [
     {
       "regionCode": "BY",
       "regionName": "Bayern",
       "electionType": "Landtagswahl",
       "lastElectionDate": "08.10.2023",
+      "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CSU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 37.0,
       "nextElectionDate": null,
       "sourceURL": "https://www.landtagswahl2023.bayern.de/ergebnis_bayern_gesamtstimmen_stimmkreis_mit_sondergebiete_gesamt_aktuell.html"
     }
-  ]
+  ],
+  "election": {
+    "regionCode": "BY",
+    "regionName": "Bayern",
+    "electionType": "Landtagswahl",
+    "lastElectionDate": "08.10.2023",
+    "nextElectionDate": null,
+    "resultType": "voteSharePercent",
+    "winningParty": "CSU",
+    "winningPartyColor": "#000000",
+    "winningPartyResult": 37.0,
+    "sourceLabel": "Bayerisches Landesamt für Statistik",
+    "sourceURL": "https://www.landtagswahl2023.bayern.de/ergebnis_bayern_gesamtstimmen_stimmkreis_mit_sondergebiete_gesamt_aktuell.html",
+    "parties": [
+      {
+        "name": "CSU",
+        "value": 37.0,
+        "colorHex": "#000000",
+        "rank": 1
+      },
+      {
+        "name": "Freie Wähler",
+        "value": 15.8,
+        "colorHex": "#FF9500",
+        "rank": 2
+      },
+      {
+        "name": "AfD",
+        "value": 14.6,
+        "colorHex": "#007AFF",
+        "rank": 3
+      },
+      {
+        "name": "Grüne",
+        "value": 14.4,
+        "colorHex": "#34C759",
+        "rank": 4
+      },
+      {
+        "name": "SPD",
+        "value": 8.4,
+        "colorHex": "#FF3B30",
+        "rank": 5
+      },
+      {
+        "name": "Sonstige",
+        "value": 4.8,
+        "colorHex": "#8E8E93",
+        "rank": 6
+      },
+      {
+        "name": "FDP",
+        "value": 3.0,
+        "colorHex": "#FFCC00",
+        "rank": 7
+      },
+      {
+        "name": "ÖDP",
+        "value": 1.8,
+        "colorHex": "#8E8E93",
+        "rank": 8
+      }
+    ]
+  }
 }
