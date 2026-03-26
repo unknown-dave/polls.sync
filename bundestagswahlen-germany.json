@@ -1,0 +1,4186 @@
+{
+  "country": "Deutschland",
+  "electionType": "Bundestagswahl",
+  "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+  "generatedAt": "2026-03-26T13:34:37.396263Z",
+  "elections": [
+    {
+      "year": 2025,
+      "date": "2025-02-23",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 22.6,
+          "seats": 164
+        },
+        {
+          "name": "AfD",
+          "officialNames": [
+            "AfD"
+          ],
+          "secondVotesPercent": 20.8,
+          "seats": 152
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 16.4,
+          "seats": 120
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 11.6,
+          "seats": 85
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 8.8,
+          "seats": 64
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 6.0,
+          "seats": 44
+        },
+        {
+          "name": "BSW",
+          "officialNames": [
+            "BSW"
+          ],
+          "secondVotesPercent": 5.0,
+          "seats": 0
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 4.3,
+          "seats": 0
+        },
+        {
+          "name": "FREIE WÄHLER",
+          "officialNames": [
+            "FREIE WÄHLER"
+          ],
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "Volt",
+          "officialNames": [
+            "Volt"
+          ],
+          "secondVotesPercent": 0.7,
+          "seats": 0
+        },
+        {
+          "name": "Die PARTEI",
+          "officialNames": [
+            "Die PARTEI"
+          ],
+          "secondVotesPercent": 0.5,
+          "seats": 0
+        },
+        {
+          "name": "BÜNDNIS DEUTSCHLAND",
+          "officialNames": [
+            "BÜNDNIS DEUTSCHLAND"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 1
+        },
+        {
+          "name": "dieBasis",
+          "officialNames": [
+            "dieBasis"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Bündnis C",
+          "officialNames": [
+            "Bündnis C"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MENSCHLICHE WELT",
+          "officialNames": [
+            "MENSCHLICHE WELT"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MERA25",
+          "officialNames": [
+            "MERA25"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PIRATEN",
+          "officialNames": [
+            "PIRATEN"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PdF",
+          "officialNames": [
+            "PdF"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PdH",
+          "officialNames": [
+            "PdH"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Team Todenhöfer",
+          "officialNames": [
+            "Team Todenhöfer"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Verjüngungsforschung",
+          "officialNames": [
+            "Verjüngungsforschung"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "WerteUnion",
+          "officialNames": [
+            "WerteUnion"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 28.6,
+          "seats": 208
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 16.4,
+          "seats": 120
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 11.6,
+          "seats": 85
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 4.3,
+          "seats": 0
+        },
+        {
+          "name": "AfD",
+          "secondVotesPercent": 20.8,
+          "seats": 152
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 8.8,
+          "seats": 64
+        },
+        {
+          "name": "BSW",
+          "secondVotesPercent": 5.0,
+          "seats": 0
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 4.4,
+          "seats": 1
+        }
+      ],
+      "totalSeats": 630
+    },
+    {
+      "year": 2021,
+      "date": "2021-09-26",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 25.7,
+          "seats": 206
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 19.0,
+          "seats": 152
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 14.7,
+          "seats": 118
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 11.4,
+          "seats": 92
+        },
+        {
+          "name": "AfD",
+          "officialNames": [
+            "AfD"
+          ],
+          "secondVotesPercent": 10.4,
+          "seats": 83
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 5.2,
+          "seats": 45
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 4.9,
+          "seats": 39
+        },
+        {
+          "name": "FREIE WÄHLER",
+          "officialNames": [
+            "FREIE WÄHLER"
+          ],
+          "secondVotesPercent": 2.4,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        },
+        {
+          "name": "dieBasis",
+          "officialNames": [
+            "dieBasis"
+          ],
+          "secondVotesPercent": 1.4,
+          "seats": 0
+        },
+        {
+          "name": "Die PARTEI",
+          "officialNames": [
+            "Die PARTEI"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "Team Todenhöfer",
+          "officialNames": [
+            "Team Todenhöfer"
+          ],
+          "secondVotesPercent": 0.5,
+          "seats": 0
+        },
+        {
+          "name": "PIRATEN",
+          "officialNames": [
+            "PIRATEN"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "Volt",
+          "officialNames": [
+            "Volt"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Bündnis C",
+          "officialNames": [
+            "Bündnis C"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "PdH",
+          "officialNames": [
+            "PdH"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 1
+        },
+        {
+          "name": "V-Partei³",
+          "officialNames": [
+            "V-Partei³"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Verjüngungsforschung",
+          "officialNames": [
+            "Verjüngungsforschung"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BÜNDNIS21",
+          "officialNames": [
+            "BÜNDNIS21"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BÜRGERBEWEGUNG",
+          "officialNames": [
+            "BÜRGERBEWEGUNG"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DiB",
+          "officialNames": [
+            "DiB"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Die Grauen",
+          "officialNames": [
+            "Die Grauen"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Gartenpartei",
+          "officialNames": [
+            "Gartenpartei"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "III. Weg",
+          "officialNames": [
+            "III. Weg"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "LIEBE",
+          "officialNames": [
+            "LIEBE"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "LfK",
+          "officialNames": [
+            "LfK"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MENSCHLICHE WELT",
+          "officialNames": [
+            "MENSCHLICHE WELT"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PdF",
+          "officialNames": [
+            "PdF"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzallianz",
+          "officialNames": [
+            "Tierschutzallianz"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "UNABHÄNGIGE",
+          "officialNames": [
+            "UNABHÄNGIGE"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Wir Bürger",
+          "officialNames": [
+            "Wir Bürger"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "du.",
+          "officialNames": [
+            "du."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 24.2,
+          "seats": 197
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 25.7,
+          "seats": 206
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 14.7,
+          "seats": 118
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 11.4,
+          "seats": 92
+        },
+        {
+          "name": "AfD",
+          "secondVotesPercent": 10.4,
+          "seats": 83
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 4.9,
+          "seats": 39
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 8.5,
+          "seats": 1
+        }
+      ],
+      "totalSeats": 736
+    },
+    {
+      "year": 2017,
+      "date": "2017-09-24",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 26.8,
+          "seats": 200
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 20.5,
+          "seats": 153
+        },
+        {
+          "name": "AfD",
+          "officialNames": [
+            "AfD"
+          ],
+          "secondVotesPercent": 12.6,
+          "seats": 94
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 10.7,
+          "seats": 80
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 9.2,
+          "seats": 69
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 8.9,
+          "seats": 67
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 6.2,
+          "seats": 46
+        },
+        {
+          "name": "Die PARTEI",
+          "officialNames": [
+            "Die PARTEI"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "FREIE WÄHLER",
+          "officialNames": [
+            "FREIE WÄHLER"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.8,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "PIRATEN",
+          "officialNames": [
+            "PIRATEN"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "BGE",
+          "officialNames": [
+            "BGE"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "AD-DEMOKRATEN",
+          "officialNames": [
+            "AD-DEMOKRATEN"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DM",
+          "officialNames": [
+            "DM"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DiB",
+          "officialNames": [
+            "DiB"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzallianz",
+          "officialNames": [
+            "Tierschutzallianz"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "V-Partei³",
+          "officialNames": [
+            "V-Partei³"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Verjüngungsforschung",
+          "officialNames": [
+            "Verjüngungsforschung"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "B*",
+          "officialNames": [
+            "B*"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DIE RECHTE",
+          "officialNames": [
+            "DIE RECHTE"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Die Grauen",
+          "officialNames": [
+            "Die Grauen"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Gartenpartei",
+          "officialNames": [
+            "Gartenpartei"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MENSCHLICHE WELT",
+          "officialNames": [
+            "MENSCHLICHE WELT"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PDV",
+          "officialNames": [
+            "PDV"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PdH",
+          "officialNames": [
+            "PdH"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Volksabstimmung",
+          "officialNames": [
+            "Volksabstimmung"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "du.",
+          "officialNames": [
+            "du."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 33.0,
+          "seats": 246
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 20.5,
+          "seats": 153
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 8.9,
+          "seats": 67
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 10.7,
+          "seats": 80
+        },
+        {
+          "name": "AfD",
+          "secondVotesPercent": 12.6,
+          "seats": 94
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 9.2,
+          "seats": 69
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 4.9,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 709
+    },
+    {
+      "year": 2013,
+      "date": "2013-09-22",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 34.1,
+          "seats": 255
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 25.7,
+          "seats": 193
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 8.6,
+          "seats": 64
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 8.4,
+          "seats": 63
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 7.4,
+          "seats": 56
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 4.8,
+          "seats": 0
+        },
+        {
+          "name": "AfD",
+          "officialNames": [
+            "AfD"
+          ],
+          "secondVotesPercent": 4.7,
+          "seats": 0
+        },
+        {
+          "name": "PIRATEN",
+          "officialNames": [
+            "PIRATEN"
+          ],
+          "secondVotesPercent": 2.2,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 1.3,
+          "seats": 0
+        },
+        {
+          "name": "FREIE WÄHLER",
+          "officialNames": [
+            "FREIE WÄHLER"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "Die PARTEI",
+          "officialNames": [
+            "Die PARTEI"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "pro Deutschland",
+          "officialNames": [
+            "pro Deutschland"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "PDV",
+          "officialNames": [
+            "PDV"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "RENTNER",
+          "officialNames": [
+            "RENTNER"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Volksabstimmung",
+          "officialNames": [
+            "Volksabstimmung"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BIG",
+          "officialNames": [
+            "BIG"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Bündnis 21/RRP",
+          "officialNames": [
+            "Bündnis 21/RRP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DIE FRAUEN",
+          "officialNames": [
+            "DIE FRAUEN"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DIE RECHTE",
+          "officialNames": [
+            "DIE RECHTE"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DIE VIOLETTEN",
+          "officialNames": [
+            "DIE VIOLETTEN"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "FAMILIE",
+          "officialNames": [
+            "FAMILIE"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Nichtwähler",
+          "officialNames": [
+            "Nichtwähler"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 41.5,
+          "seats": 311
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 25.7,
+          "seats": 193
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 8.4,
+          "seats": 63
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 4.8,
+          "seats": 0
+        },
+        {
+          "name": "AfD",
+          "secondVotesPercent": 4.7,
+          "seats": 0
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 8.6,
+          "seats": 64
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 6.2,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 631
+    },
+    {
+      "year": 2009,
+      "date": "2009-09-27",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 27.3,
+          "seats": 194
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 23.0,
+          "seats": 146
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 14.6,
+          "seats": 93
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 11.9,
+          "seats": 76
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 10.7,
+          "seats": 68
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 6.5,
+          "seats": 45
+        },
+        {
+          "name": "PIRATEN",
+          "officialNames": [
+            "PIRATEN"
+          ],
+          "secondVotesPercent": 2.0,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.5,
+          "seats": 0
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "FAMILIE",
+          "officialNames": [
+            "FAMILIE"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "ödp",
+          "officialNames": [
+            "ödp"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "Bündnis 21/RRP",
+          "officialNames": [
+            "Bündnis 21/RRP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DIE VIOLETTEN",
+          "officialNames": [
+            "DIE VIOLETTEN"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DVU",
+          "officialNames": [
+            "DVU"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "RENTNER",
+          "officialNames": [
+            "RENTNER"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Volksabstimmung",
+          "officialNames": [
+            "Volksabstimmung"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "ADM",
+          "officialNames": [
+            "ADM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "CM",
+          "officialNames": [
+            "CM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "FWD",
+          "officialNames": [
+            "FWD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ZENTRUM",
+          "officialNames": [
+            "ZENTRUM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 33.8,
+          "seats": 239
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 23.0,
+          "seats": 146
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 10.7,
+          "seats": 68
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 14.6,
+          "seats": 93
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 11.9,
+          "seats": 76
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 6.0,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 622
+    },
+    {
+      "year": 2005,
+      "date": "2005-09-18",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 34.2,
+          "seats": 222
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 27.8,
+          "seats": 180
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 9.8,
+          "seats": 61
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 8.7,
+          "seats": 54
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 8.1,
+          "seats": 51
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 7.4,
+          "seats": 46
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 1.6,
+          "seats": 0
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 0.6,
+          "seats": 0
+        },
+        {
+          "name": "FAMILIE",
+          "officialNames": [
+            "FAMILIE"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "GRAUE",
+          "officialNames": [
+            "GRAUE"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DIE FRAUEN",
+          "officialNames": [
+            "DIE FRAUEN"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "50Plus",
+          "officialNames": [
+            "50Plus"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "AGFG",
+          "officialNames": [
+            "AGFG"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "APPD",
+          "officialNames": [
+            "APPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Die PARTEI",
+          "officialNames": [
+            "Die PARTEI"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Offensive D",
+          "officialNames": [
+            "Offensive D"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Pro DM",
+          "officialNames": [
+            "Pro DM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Volksabstimmung",
+          "officialNames": [
+            "Volksabstimmung"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ZENTRUM",
+          "officialNames": [
+            "ZENTRUM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 35.2,
+          "seats": 226
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 34.2,
+          "seats": 222
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 8.1,
+          "seats": 51
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 9.8,
+          "seats": 61
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 8.7,
+          "seats": 54
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 3.8,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 614
+    },
+    {
+      "year": 2002,
+      "date": "2002-09-22",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 38.5,
+          "seats": 251
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 29.5,
+          "seats": 190
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.0,
+          "seats": 58
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 8.6,
+          "seats": 55
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 7.4,
+          "seats": 47
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 4.0,
+          "seats": 2
+        },
+        {
+          "name": "Offensive D",
+          "officialNames": [
+            "Offensive D"
+          ],
+          "secondVotesPercent": 0.8,
+          "seats": 0
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 0.6,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "GRAUE",
+          "officialNames": [
+            "GRAUE"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "DIE FRAUEN",
+          "officialNames": [
+            "DIE FRAUEN"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "FAMILIE",
+          "officialNames": [
+            "FAMILIE"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "ödp",
+          "officialNames": [
+            "ödp"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "AUFBRUCH",
+          "officialNames": [
+            "AUFBRUCH"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "CM",
+          "officialNames": [
+            "CM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Die Violetten",
+          "officialNames": [
+            "Die Violetten"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "HP",
+          "officialNames": [
+            "HP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "KPD (Ost)",
+          "officialNames": [
+            "KPD (Ost)"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PRG",
+          "officialNames": [
+            "PRG"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ZENTRUM",
+          "officialNames": [
+            "ZENTRUM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 38.5,
+          "seats": 248
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 38.5,
+          "seats": 251
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 8.6,
+          "seats": 55
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 7.4,
+          "seats": 47
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 4.0,
+          "seats": 2
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 2.8,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 603
+    },
+    {
+      "year": 1998,
+      "date": "1998-09-27",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 40.9,
+          "seats": 298
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 28.4,
+          "seats": 198
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 6.7,
+          "seats": 47
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 6.7,
+          "seats": 47
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 6.2,
+          "seats": 43
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 5.1,
+          "seats": 36
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 1.8,
+          "seats": 0
+        },
+        {
+          "name": "DVU",
+          "officialNames": [
+            "DVU"
+          ],
+          "secondVotesPercent": 1.2,
+          "seats": 0
+        },
+        {
+          "name": "Pro DM",
+          "officialNames": [
+            "Pro DM"
+          ],
+          "secondVotesPercent": 0.9,
+          "seats": 0
+        },
+        {
+          "name": "GRAUE",
+          "officialNames": [
+            "GRAUE"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "BFB – Die Offensive",
+          "officialNames": [
+            "BFB – Die Offensive"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "ödp",
+          "officialNames": [
+            "ödp"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "APPD",
+          "officialNames": [
+            "APPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "CHANCE 2000",
+          "officialNames": [
+            "CHANCE 2000"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "DIE FRAUEN",
+          "officialNames": [
+            "DIE FRAUEN"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "FAMILIE",
+          "officialNames": [
+            "FAMILIE"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "NATURGESETZ",
+          "officialNames": [
+            "NATURGESETZ"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "AB 2000",
+          "officialNames": [
+            "AB 2000"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "APD",
+          "officialNames": [
+            "APD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "CM",
+          "officialNames": [
+            "CM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DPD",
+          "officialNames": [
+            "DPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "FORUM",
+          "officialNames": [
+            "FORUM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "HP",
+          "officialNames": [
+            "HP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Nichtwähler",
+          "officialNames": [
+            "Nichtwähler"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PASS",
+          "officialNames": [
+            "PASS"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Volksabstimmung",
+          "officialNames": [
+            "Volksabstimmung"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 35.1,
+          "seats": 245
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 40.9,
+          "seats": 298
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 6.7,
+          "seats": 47
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 6.2,
+          "seats": 43
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 5.1,
+          "seats": 36
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 5.9,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 669
+    },
+    {
+      "year": 1994,
+      "date": "1994-10-16",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 36.4,
+          "seats": 252
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 34.2,
+          "seats": 244
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 7.3,
+          "seats": 50
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 7.3,
+          "seats": 49
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 6.9,
+          "seats": 47
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 4.4,
+          "seats": 30
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 1.9,
+          "seats": 0
+        },
+        {
+          "name": "GRAUE",
+          "officialNames": [
+            "GRAUE"
+          ],
+          "secondVotesPercent": 0.5,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "NATURGESETZ",
+          "officialNames": [
+            "NATURGESETZ"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "Tierschutzpartei",
+          "officialNames": [
+            "Tierschutzpartei"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "PBC",
+          "officialNames": [
+            "PBC"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "STATT Partei",
+          "officialNames": [
+            "STATT Partei"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "APD",
+          "officialNames": [
+            "APD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "CM",
+          "officialNames": [
+            "CM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "LIGA",
+          "officialNames": [
+            "LIGA"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "PASS",
+          "officialNames": [
+            "PASS"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ZENTRUM",
+          "officialNames": [
+            "ZENTRUM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 41.5,
+          "seats": 294
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 36.4,
+          "seats": 252
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 7.3,
+          "seats": 49
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 6.9,
+          "seats": 47
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 4.4,
+          "seats": 30
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 3.5,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 672
+    },
+    {
+      "year": 1990,
+      "date": "1990-12-02",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 36.7,
+          "seats": 268
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 33.5,
+          "seats": 239
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 11.0,
+          "seats": 79
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 7.1,
+          "seats": 51
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 3.8,
+          "seats": 0
+        },
+        {
+          "name": "Linke",
+          "officialNames": [
+            "Die Linke"
+          ],
+          "secondVotesPercent": 2.4,
+          "seats": 17
+        },
+        {
+          "name": "REP",
+          "officialNames": [
+            "REP"
+          ],
+          "secondVotesPercent": 2.1,
+          "seats": 0
+        },
+        {
+          "name": "B90/Gr",
+          "officialNames": [
+            "B90/Gr"
+          ],
+          "secondVotesPercent": 1.2,
+          "seats": 8
+        },
+        {
+          "name": "GRAUE",
+          "officialNames": [
+            "GRAUE"
+          ],
+          "secondVotesPercent": 0.8,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "DSU",
+          "officialNames": [
+            "DSU"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "CM",
+          "officialNames": [
+            "CM"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "LIGA",
+          "officialNames": [
+            "LIGA"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "DDD",
+          "officialNames": [
+            "DDD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "FRAUEN",
+          "officialNames": [
+            "FRAUEN"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "KPD (Ost)",
+          "officialNames": [
+            "KPD (Ost)"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Mündige Bürger",
+          "officialNames": [
+            "Mündige Bürger"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SGP",
+          "officialNames": [
+            "SGP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "SpAD",
+          "officialNames": [
+            "SpAD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "VAA",
+          "officialNames": [
+            "VAA"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ÖKO-UNION",
+          "officialNames": [
+            "ÖKO-UNION"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 43.8,
+          "seats": 319
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 33.5,
+          "seats": 239
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 3.8,
+          "seats": 0
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 11.0,
+          "seats": 79
+        },
+        {
+          "name": "Linke",
+          "secondVotesPercent": 2.4,
+          "seats": 17
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 5.3,
+          "seats": 8
+        }
+      ],
+      "totalSeats": 662
+    },
+    {
+      "year": 1987,
+      "date": "1987-01-25",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 37.0,
+          "seats": 186
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 34.5,
+          "seats": 174
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.8,
+          "seats": 49
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 9.1,
+          "seats": 46
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 8.3,
+          "seats": 42
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.6,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "FRAUEN",
+          "officialNames": [
+            "FRAUEN"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "BüSo",
+          "officialNames": [
+            "BüSo"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Mündige Bürger",
+          "officialNames": [
+            "Mündige Bürger"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "ZENTRUM",
+          "officialNames": [
+            "ZENTRUM"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "ASD",
+          "officialNames": [
+            "ASD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "C.B.V.",
+          "officialNames": [
+            "C.B.V."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "FAP",
+          "officialNames": [
+            "FAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "MLPD",
+          "officialNames": [
+            "MLPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 44.3,
+          "seats": 223
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 37.0,
+          "seats": 186
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 8.3,
+          "seats": 42
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 9.1,
+          "seats": 46
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 497
+    },
+    {
+      "year": 1983,
+      "date": "1983-03-06",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 38.2,
+          "seats": 191
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 38.2,
+          "seats": 193
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 10.6,
+          "seats": 53
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 7.0,
+          "seats": 34
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 5.6,
+          "seats": 27
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "BWK",
+          "officialNames": [
+            "BWK"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "C.B.V.",
+          "officialNames": [
+            "C.B.V."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "EAP",
+          "officialNames": [
+            "EAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "KPD",
+          "officialNames": [
+            "KPD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "USD",
+          "officialNames": [
+            "USD"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "ÖDP",
+          "officialNames": [
+            "ÖDP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 48.8,
+          "seats": 244
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 38.2,
+          "seats": 193
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 5.6,
+          "seats": 27
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 7.0,
+          "seats": 34
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 498
+    },
+    {
+      "year": 1980,
+      "date": "1980-10-05",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 42.9,
+          "seats": 218
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 34.2,
+          "seats": 174
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 10.6,
+          "seats": 53
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 10.3,
+          "seats": 52
+        },
+        {
+          "name": "Grüne",
+          "officialNames": [
+            "GRÜNE"
+          ],
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "Bürgerpartei",
+          "officialNames": [
+            "Bürgerpartei"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "C.B.V.",
+          "officialNames": [
+            "C.B.V."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "EAP",
+          "officialNames": [
+            "EAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "KBW",
+          "officialNames": [
+            "KBW"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "V",
+          "officialNames": [
+            "V"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 44.5,
+          "seats": 226
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 42.9,
+          "seats": 218
+        },
+        {
+          "name": "Grüne",
+          "secondVotesPercent": 1.5,
+          "seats": 0
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 10.6,
+          "seats": 53
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 0.4,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 497
+    },
+    {
+      "year": 1976,
+      "date": "1976-10-03",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 42.6,
+          "seats": 214
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 38.0,
+          "seats": 190
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 10.6,
+          "seats": 53
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 7.9,
+          "seats": 39
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "AUD",
+          "officialNames": [
+            "AUD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "KBW",
+          "officialNames": [
+            "KBW"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "KPD",
+          "officialNames": [
+            "KPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "5%-Block",
+          "officialNames": [
+            "5%-Block"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "AVP",
+          "officialNames": [
+            "AVP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "C.B.V.",
+          "officialNames": [
+            "C.B.V."
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "EAP",
+          "officialNames": [
+            "EAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "GIM",
+          "officialNames": [
+            "GIM"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "UAP",
+          "officialNames": [
+            "UAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "VL",
+          "officialNames": [
+            "VL"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 48.6,
+          "seats": 243
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 42.6,
+          "seats": 214
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 7.9,
+          "seats": 39
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 0.9,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 496
+    },
+    {
+      "year": 1972,
+      "date": "1972-11-19",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 45.8,
+          "seats": 230
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 35.2,
+          "seats": 177
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.7,
+          "seats": 48
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 8.4,
+          "seats": 41
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 0.6,
+          "seats": 0
+        },
+        {
+          "name": "DKP",
+          "officialNames": [
+            "DKP"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "EFP",
+          "officialNames": [
+            "EFP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "HUMANWIRTSCHAFTSPARTEI",
+          "officialNames": [
+            "HUMANWIRTSCHAFTSPARTEI"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 44.9,
+          "seats": 225
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 45.8,
+          "seats": 230
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 8.4,
+          "seats": 41
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 496
+    },
+    {
+      "year": 1969,
+      "date": "1969-09-28",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 42.7,
+          "seats": 224
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 36.6,
+          "seats": 193
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.5,
+          "seats": 49
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 5.8,
+          "seats": 30
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 4.3,
+          "seats": 0
+        },
+        {
+          "name": "ADF",
+          "officialNames": [
+            "ADF"
+          ],
+          "secondVotesPercent": 0.6,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "EP",
+          "officialNames": [
+            "EP"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "GPD",
+          "officialNames": [
+            "GPD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "HUMANWIRTSCHAFTSPARTEI",
+          "officialNames": [
+            "HUMANWIRTSCHAFTSPARTEI"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "UAP",
+          "officialNames": [
+            "UAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "Zentrum",
+          "officialNames": [
+            "Zentrum"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 46.1,
+          "seats": 242
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 42.7,
+          "seats": 224
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 5.8,
+          "seats": 30
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 5.4,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 496
+    },
+    {
+      "year": 1965,
+      "date": "1965-09-19",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 39.3,
+          "seats": 202
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 38.0,
+          "seats": 196
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.6,
+          "seats": 49
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 9.5,
+          "seats": 49
+        },
+        {
+          "name": "HEIMAT",
+          "officialNames": [
+            "HEIMAT"
+          ],
+          "secondVotesPercent": 2.0,
+          "seats": 0
+        },
+        {
+          "name": "DFU",
+          "officialNames": [
+            "DFU"
+          ],
+          "secondVotesPercent": 1.3,
+          "seats": 0
+        },
+        {
+          "name": "AUD",
+          "officialNames": [
+            "AUD"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "CVP",
+          "officialNames": [
+            "CVP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "EFP",
+          "officialNames": [
+            "EFP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "HUMANWIRTSCHAFTSPARTEI",
+          "officialNames": [
+            "HUMANWIRTSCHAFTSPARTEI"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        },
+        {
+          "name": "UAP",
+          "officialNames": [
+            "UAP"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 47.6,
+          "seats": 245
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 39.3,
+          "seats": 202
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 9.5,
+          "seats": 49
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 3.6,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 496
+    },
+    {
+      "year": 1961,
+      "date": "1961-09-17",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 36.2,
+          "seats": 190
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 35.8,
+          "seats": 192
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 12.8,
+          "seats": 67
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 9.6,
+          "seats": 50
+        },
+        {
+          "name": "GDP (DP-BHE)",
+          "officialNames": [
+            "GDP (DP-BHE)"
+          ],
+          "secondVotesPercent": 2.8,
+          "seats": 0
+        },
+        {
+          "name": "DFU",
+          "officialNames": [
+            "DFU"
+          ],
+          "secondVotesPercent": 1.9,
+          "seats": 0
+        },
+        {
+          "name": "DRP",
+          "officialNames": [
+            "DRP"
+          ],
+          "secondVotesPercent": 0.8,
+          "seats": 0
+        },
+        {
+          "name": "DG",
+          "officialNames": [
+            "DG"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 45.4,
+          "seats": 242
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 36.2,
+          "seats": 190
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 12.8,
+          "seats": 67
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 5.7,
+          "seats": 0
+        }
+      ],
+      "totalSeats": 499
+    },
+    {
+      "year": 1957,
+      "date": "1957-09-15",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 39.7,
+          "seats": 217
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 31.8,
+          "seats": 169
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 10.5,
+          "seats": 53
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 7.7,
+          "seats": 41
+        },
+        {
+          "name": "GB/BHE",
+          "officialNames": [
+            "GB/BHE"
+          ],
+          "secondVotesPercent": 4.6,
+          "seats": 0
+        },
+        {
+          "name": "DP",
+          "officialNames": [
+            "DP"
+          ],
+          "secondVotesPercent": 3.4,
+          "seats": 17
+        },
+        {
+          "name": "DRP",
+          "officialNames": [
+            "DRP"
+          ],
+          "secondVotesPercent": 1.0,
+          "seats": 0
+        },
+        {
+          "name": "FU",
+          "officialNames": [
+            "FU"
+          ],
+          "secondVotesPercent": 0.9,
+          "seats": 0
+        },
+        {
+          "name": "BdD",
+          "officialNames": [
+            "BdD"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        },
+        {
+          "name": "DG",
+          "officialNames": [
+            "DG"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "Mittelstand",
+          "officialNames": [
+            "Mittelstand"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "VU",
+          "officialNames": [
+            "VU"
+          ],
+          "secondVotesPercent": 0.0,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 50.2,
+          "seats": 270
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 31.8,
+          "seats": 169
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 7.7,
+          "seats": 41
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 10.4,
+          "seats": 17
+        }
+      ],
+      "totalSeats": 497
+    },
+    {
+      "year": 1953,
+      "date": "1953-09-06",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 36.4,
+          "seats": 191
+        },
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 28.8,
+          "seats": 151
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 9.5,
+          "seats": 48
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 8.8,
+          "seats": 52
+        },
+        {
+          "name": "GB/BHE",
+          "officialNames": [
+            "GB/BHE"
+          ],
+          "secondVotesPercent": 5.9,
+          "seats": 27
+        },
+        {
+          "name": "DP",
+          "officialNames": [
+            "DP"
+          ],
+          "secondVotesPercent": 3.3,
+          "seats": 15
+        },
+        {
+          "name": "KPD",
+          "officialNames": [
+            "KPD"
+          ],
+          "secondVotesPercent": 2.2,
+          "seats": 0
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 1.7,
+          "seats": 0
+        },
+        {
+          "name": "GVP",
+          "officialNames": [
+            "GVP"
+          ],
+          "secondVotesPercent": 1.2,
+          "seats": 0
+        },
+        {
+          "name": "DRP",
+          "officialNames": [
+            "DRP"
+          ],
+          "secondVotesPercent": 1.1,
+          "seats": 0
+        },
+        {
+          "name": "Zentrum",
+          "officialNames": [
+            "Zentrum"
+          ],
+          "secondVotesPercent": 0.8,
+          "seats": 3
+        },
+        {
+          "name": "DNS",
+          "officialNames": [
+            "DNS"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.2,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 45.2,
+          "seats": 243
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 28.8,
+          "seats": 151
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 9.5,
+          "seats": 48
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 16.7,
+          "seats": 45
+        }
+      ],
+      "totalSeats": 487
+    },
+    {
+      "year": 1949,
+      "date": "1949-08-14",
+      "sourceURL": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "parties": [
+        {
+          "name": "SPD",
+          "officialNames": [
+            "SPD"
+          ],
+          "secondVotesPercent": 29.2,
+          "seats": 131
+        },
+        {
+          "name": "CDU",
+          "officialNames": [
+            "CDU"
+          ],
+          "secondVotesPercent": 25.2,
+          "seats": 115
+        },
+        {
+          "name": "FDP",
+          "officialNames": [
+            "FDP"
+          ],
+          "secondVotesPercent": 11.9,
+          "seats": 52
+        },
+        {
+          "name": "CSU",
+          "officialNames": [
+            "CSU"
+          ],
+          "secondVotesPercent": 5.8,
+          "seats": 24
+        },
+        {
+          "name": "KPD",
+          "officialNames": [
+            "KPD"
+          ],
+          "secondVotesPercent": 5.7,
+          "seats": 15
+        },
+        {
+          "name": "Andere KWV",
+          "officialNames": [
+            "Andere KWV"
+          ],
+          "secondVotesPercent": 4.8,
+          "seats": 3
+        },
+        {
+          "name": "BP",
+          "officialNames": [
+            "BP"
+          ],
+          "secondVotesPercent": 4.2,
+          "seats": 17
+        },
+        {
+          "name": "DP",
+          "officialNames": [
+            "DP"
+          ],
+          "secondVotesPercent": 4.0,
+          "seats": 17
+        },
+        {
+          "name": "Zentrum",
+          "officialNames": [
+            "Zentrum"
+          ],
+          "secondVotesPercent": 3.1,
+          "seats": 10
+        },
+        {
+          "name": "WAV",
+          "officialNames": [
+            "WAV"
+          ],
+          "secondVotesPercent": 2.9,
+          "seats": 12
+        },
+        {
+          "name": "DKP/DRP",
+          "officialNames": [
+            "DKP/DRP"
+          ],
+          "secondVotesPercent": 1.8,
+          "seats": 5
+        },
+        {
+          "name": "RSF",
+          "officialNames": [
+            "RSF"
+          ],
+          "secondVotesPercent": 0.9,
+          "seats": 0
+        },
+        {
+          "name": "SSW",
+          "officialNames": [
+            "SSW"
+          ],
+          "secondVotesPercent": 0.3,
+          "seats": 1
+        },
+        {
+          "name": "EVD",
+          "officialNames": [
+            "EVD"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        },
+        {
+          "name": "RWVP",
+          "officialNames": [
+            "RWVP"
+          ],
+          "secondVotesPercent": 0.1,
+          "seats": 0
+        }
+      ],
+      "comparisonParties": [
+        {
+          "name": "CDU/CSU",
+          "secondVotesPercent": 31.0,
+          "seats": 139
+        },
+        {
+          "name": "SPD",
+          "secondVotesPercent": 29.2,
+          "seats": 131
+        },
+        {
+          "name": "FDP",
+          "secondVotesPercent": 11.9,
+          "seats": 52
+        },
+        {
+          "name": "Sonst.",
+          "secondVotesPercent": 27.9,
+          "seats": 80
+        }
+      ],
+      "totalSeats": 402
+    }
+  ]
+}
