@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Rheinland-Pfalz",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:17Z",
+  "updatedAt": "2026-03-28T09:10:29Z",
   "regions": [
     {
       "regionCode": "RP",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "RP",
     "regionName": "Rheinland-Pfalz",
+    "year": 2026,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "22.03.2026",
-    "nextElectionDate": null,
+    "electionDate": "22.03.2026",
     "resultType": "voteSharePercent",
     "winningParty": "CDU",
     "winningPartyColor": "#000000",
     "winningPartyResult": 31.0,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Rheinland-Pfalz",
     "sourceURL": "https://rlp-ltw26.wahlen.23degrees.eu/assets/json/wk/0000000000000.json",
     "parties": [
@@ -103,6 +104,173 @@
         "colorHex": "#8E8E93",
         "rank": 12
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "22.03.2026"
+  },
+  "elections": [
+    {
+      "regionCode": "RP",
+      "regionName": "Rheinland-Pfalz",
+      "year": 2021,
+      "electionType": "Landtagswahl",
+      "electionDate": "14.03.2021",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 35.7,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Rheinland-Pfalz",
+      "sourceURL": "https://rlp-ltw26.wahlen.23degrees.eu/assets/json/wk/0000000000000.json",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 35.7,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 27.7,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 9.3,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "AfD",
+          "value": 8.3,
+          "colorHex": "#007AFF",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 5.5,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 5.4,
+          "colorHex": "#FF9500",
+          "rank": 6
+        },
+        {
+          "name": "Linke",
+          "value": 2.5,
+          "colorHex": "#AF52DE",
+          "rank": 7
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 1.7,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Volt",
+          "value": 1.0,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        }
+      ]
+    },
+    {
+      "regionCode": "RP",
+      "regionName": "Rheinland-Pfalz",
+      "year": 2026,
+      "electionType": "Landtagswahl",
+      "electionDate": "22.03.2026",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 31.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Rheinland-Pfalz",
+      "sourceURL": "https://rlp-ltw26.wahlen.23degrees.eu/assets/json/wk/0000000000000.json",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 31.0,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 25.9,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "AfD",
+          "value": 19.5,
+          "colorHex": "#007AFF",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 7.9,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "Linke",
+          "value": 4.4,
+          "colorHex": "#AF52DE",
+          "rank": 5
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 4.2,
+          "colorHex": "#FF9500",
+          "rank": 6
+        },
+        {
+          "name": "FDP",
+          "value": 2.1,
+          "colorHex": "#FFCC00",
+          "rank": 7
+        },
+        {
+          "name": "BSW",
+          "value": 1.9,
+          "colorHex": "#FF2D55",
+          "rank": 8
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 1.6,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Volt",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "PdH",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        }
+      ]
+    }
+  ]
 }

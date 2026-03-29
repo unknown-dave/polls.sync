@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlamt Hamburg / Statistikamt Nord",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:13Z",
+  "updatedAt": "2026-03-28T09:10:26Z",
   "regions": [
     {
       "regionCode": "HH",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "HH",
     "regionName": "Hamburg",
+    "year": 2025,
     "electionType": "Bürgerschaftswahl",
-    "lastElectionDate": "02.03.2025",
-    "nextElectionDate": null,
+    "electionDate": "02.03.2025",
     "resultType": "voteSharePercent",
     "winningParty": "SPD",
     "winningPartyColor": "#FF3B30",
     "winningPartyResult": 33.5,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlamt Hamburg / Statistikamt Nord",
     "sourceURL": "https://www.wahlen-hamburg.de/B%C3%BCrgerschaftswahl_2025/index.html",
     "parties": [
@@ -127,6 +128,227 @@
         "colorHex": "#8E8E93",
         "rank": 16
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "02.03.2025"
+  },
+  "elections": [
+    {
+      "regionCode": "HH",
+      "regionName": "Hamburg",
+      "year": 2020,
+      "electionType": "Bürgerschaftswahl",
+      "electionDate": "23.02.2020",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 39.2,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlamt Hamburg / Statistikamt Nord",
+      "sourceURL": "https://www.wahlen-hamburg.de/B%C3%BCrgerschaftswahl_2020/index.html",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 39.2,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "Grüne",
+          "value": 24.2,
+          "colorHex": "#34C759",
+          "rank": 2
+        },
+        {
+          "name": "CDU",
+          "value": 11.2,
+          "colorHex": "#000000",
+          "rank": 3
+        },
+        {
+          "name": "Linke",
+          "value": 9.1,
+          "colorHex": "#AF52DE",
+          "rank": 4
+        },
+        {
+          "name": "AfD",
+          "value": 5.3,
+          "colorHex": "#007AFF",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 5.0,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 1.4,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Volt",
+          "value": 1.3,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.6,
+          "colorHex": "#FF9500",
+          "rank": 11
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "Tierschutz hier!",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Die Humanisten",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "regionCode": "HH",
+      "regionName": "Hamburg",
+      "year": 2025,
+      "electionType": "Bürgerschaftswahl",
+      "electionDate": "02.03.2025",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 33.5,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlamt Hamburg / Statistikamt Nord",
+      "sourceURL": "https://www.wahlen-hamburg.de/B%C3%BCrgerschaftswahl_2025/index.html",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 33.5,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 19.8,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 18.5,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "Linke",
+          "value": 11.2,
+          "colorHex": "#AF52DE",
+          "rank": 4
+        },
+        {
+          "name": "AfD",
+          "value": 7.5,
+          "colorHex": "#007AFF",
+          "rank": 5
+        },
+        {
+          "name": "Volt",
+          "value": 3.2,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "FDP",
+          "value": 2.3,
+          "colorHex": "#FFCC00",
+          "rank": 7
+        },
+        {
+          "name": "BSW",
+          "value": 1.8,
+          "colorHex": "#FF2D55",
+          "rank": 8
+        },
+        {
+          "name": "DAVA-Hamburg",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.3,
+          "colorHex": "#FF9500",
+          "rank": 12
+        },
+        {
+          "name": "DieWahl - WFG",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "BÜNDNIS DEUTSCHLAND",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "NPD",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        }
+      ]
+    }
+  ]
 }

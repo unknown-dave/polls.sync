@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Thüringen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:16Z",
+  "updatedAt": "2026-03-28T09:10:37Z",
   "regions": [
     {
       "regionCode": "TH",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "TH",
     "regionName": "Thüringen",
+    "year": 2024,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "01.09.2024",
-    "nextElectionDate": null,
+    "electionDate": "01.09.2024",
     "resultType": "voteSharePercent",
     "winningParty": "AfD",
     "winningPartyColor": "#007AFF",
     "winningPartyResult": 32.8,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Thüringen",
     "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=Land",
     "parties": [
@@ -121,6 +122,673 @@
         "colorHex": "#8E8E93",
         "rank": 15
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "01.09.2024"
+  },
+  "elections": [
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 1994,
+      "electionType": "Landtagswahl",
+      "electionDate": "16.10.1994",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 42.6,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=1994&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 42.6,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 29.6,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "PDS",
+          "value": 16.6,
+          "colorHex": "#8E8E93",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 4.5,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 3.2,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "REP",
+          "value": 1.3,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "FORUM",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "GRAUE",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "STATT Part",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "DSU",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 1999,
+      "electionType": "Landtagswahl",
+      "electionDate": "12.09.1999",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 51.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=1999&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 51.0,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "PDS",
+          "value": 21.3,
+          "colorHex": "#8E8E93",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 18.5,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "DVU",
+          "value": 3.1,
+          "colorHex": "#8E8E93",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 1.9,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 1.1,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "VIBT",
+          "value": 0.9,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "REP",
+          "value": 0.8,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "DIE FRAUEN",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "FORUM",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "DSU",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "NPD",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "PBC",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 2004,
+      "electionType": "Landtagswahl",
+      "electionDate": "13.06.2004",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 43.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2004&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 43.0,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "PDS",
+          "value": 26.1,
+          "colorHex": "#8E8E93",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 14.5,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 4.5,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 3.6,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "Fr. W�hler",
+          "value": 2.6,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "REP",
+          "value": 2.0,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "NPD",
+          "value": 1.6,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "GRAUE",
+          "value": 0.8,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "ODAD",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "VIBT",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "BSU",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "KPD",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 2009,
+      "electionType": "Landtagswahl",
+      "electionDate": "30.08.2009",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 31.2,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2009&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 31.2,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "Linke",
+          "value": 27.4,
+          "colorHex": "#AF52DE",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 18.5,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "FDP",
+          "value": 7.6,
+          "colorHex": "#FFCC00",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 6.2,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "NPD",
+          "value": 4.3,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "Freie W�hler Th�ringen",
+          "value": 3.9,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "REP",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 2014,
+      "electionType": "Landtagswahl",
+      "electionDate": "14.09.2014",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 33.5,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2014&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 33.5,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "Linke",
+          "value": 28.2,
+          "colorHex": "#AF52DE",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 12.4,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "AfD",
+          "value": 10.6,
+          "colorHex": "#007AFF",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 5.7,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "NPD",
+          "value": 3.6,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "FDP",
+          "value": 2.5,
+          "colorHex": "#FFCC00",
+          "rank": 7
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 1.7,
+          "colorHex": "#FF9500",
+          "rank": 8
+        },
+        {
+          "name": "PIRATEN",
+          "value": 1.0,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "REP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "KPD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 2019,
+      "electionType": "Landtagswahl",
+      "electionDate": "27.10.2019",
+      "resultType": "voteSharePercent",
+      "winningParty": "Linke",
+      "winningPartyColor": "#AF52DE",
+      "winningPartyResult": 31.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2019&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "Linke",
+          "value": 31.0,
+          "colorHex": "#AF52DE",
+          "rank": 1
+        },
+        {
+          "name": "AfD",
+          "value": 23.4,
+          "colorHex": "#007AFF",
+          "rank": 2
+        },
+        {
+          "name": "CDU",
+          "value": 21.7,
+          "colorHex": "#000000",
+          "rank": 3
+        },
+        {
+          "name": "SPD",
+          "value": 8.2,
+          "colorHex": "#FF3B30",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 5.2,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 5.0,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "TIERSCHUTZ hier!",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Graue Panther",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "NPD",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "ÖDP / Familie",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "MLPD",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "BGE",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "DIE DIREKTE!",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        },
+        {
+          "name": "Blaue #TeamPetry Th�ringen",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 17
+        },
+        {
+          "name": "KPD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 18
+        }
+      ]
+    },
+    {
+      "regionCode": "TH",
+      "regionName": "Thüringen",
+      "year": 2024,
+      "electionType": "Landtagswahl",
+      "electionDate": "01.09.2024",
+      "resultType": "voteSharePercent",
+      "winningParty": "AfD",
+      "winningPartyColor": "#007AFF",
+      "winningPartyResult": 32.8,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Thüringen",
+      "sourceURL": "https://wahlen.thueringen.de/datenbank/wahl1/wahl.asp?wahlart=LW&wJahr=2024&zeigeErg=Land",
+      "parties": [
+        {
+          "name": "AfD",
+          "value": 32.8,
+          "colorHex": "#007AFF",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 23.6,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "BSW",
+          "value": 15.8,
+          "colorHex": "#FF2D55",
+          "rank": 3
+        },
+        {
+          "name": "Linke",
+          "value": 13.1,
+          "colorHex": "#AF52DE",
+          "rank": 4
+        },
+        {
+          "name": "SPD",
+          "value": 6.1,
+          "colorHex": "#FF3B30",
+          "rank": 5
+        },
+        {
+          "name": "Grüne",
+          "value": 3.2,
+          "colorHex": "#34C759",
+          "rank": 6
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 1.3,
+          "colorHex": "#FF9500",
+          "rank": 7
+        },
+        {
+          "name": "FDP",
+          "value": 1.1,
+          "colorHex": "#FFCC00",
+          "rank": 8
+        },
+        {
+          "name": "TIERSCHUTZ hier!",
+          "value": 1.0,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "WU",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "FAMILIE",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "Bündnis Deutschland",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "ÖDP / Familie",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "MLPD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        }
+      ]
+    }
+  ]
 }

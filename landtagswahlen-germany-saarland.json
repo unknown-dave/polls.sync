@@ -79,6 +79,157 @@
         "colorHex": "#8E8E93",
         "rank": 8
       }
-    ]
-  }
+    ],
+    "electionDate": "27.03.2022",
+    "year": 2022
+  },
+  "elections": [
+    {
+      "regionCode": "SL",
+      "regionName": "Saarland",
+      "year": 2017,
+      "electionType": "Landtagswahl",
+      "electionDate": "26.03.2017",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 40.7,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiterin Saarland",
+      "sourceURL": "https://wahlergebnis.saarland.de/LTW_17/details_land-10-saarland_gesamt.html",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 40.7,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 29.6,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "Linke",
+          "value": 12.9,
+          "colorHex": "#AF52DE",
+          "rank": 3
+        },
+        {
+          "name": "AfD",
+          "value": 6.2,
+          "colorHex": "#007AFF",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 4.0,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 3.3,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Sonstige",
+          "value": 1.7,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "NPD",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "FAMILIE",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "regionCode": "SL",
+      "regionName": "Saarland",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "27.03.2022",
+      "nextElectionDate": null,
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 43.5,
+      "sourceLabel": "Landeswahlleiterin Saarland",
+      "sourceURL": "https://wahlergebnis.saarland.de/LTW/",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 43.5,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 28.5,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "AfD",
+          "value": 5.7,
+          "colorHex": "#007AFF",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 5.0,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 4.8,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "Linke",
+          "value": 2.6,
+          "colorHex": "#AF52DE",
+          "rank": 6
+        },
+        {
+          "name": "FAMILIE",
+          "value": 0.8,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        }
+      ],
+      "electionDate": "27.03.2022",
+      "year": 2022
+    }
+  ]
 }

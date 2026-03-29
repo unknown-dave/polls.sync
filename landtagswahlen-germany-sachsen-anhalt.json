@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen-Anhalt",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:14Z",
+  "updatedAt": "2026-03-28T09:37:54Z",
   "regions": [
     {
       "regionCode": "ST",
@@ -13,7 +13,7 @@
       "mapColorBasis": "staerkste Kraft nach letzter Landesparlamentswahl",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
-      "winningPartyResult": 37.1,
+      "winningPartyResult": 34.1,
       "nextElectionDate": null,
       "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat1.csv"
     }
@@ -21,142 +21,362 @@
   "election": {
     "regionCode": "ST",
     "regionName": "Sachsen-Anhalt",
+    "year": 2021,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "06.06.2021",
-    "nextElectionDate": null,
+    "electionDate": "06.06.2021",
     "resultType": "voteSharePercent",
     "winningParty": "CDU",
     "winningPartyColor": "#000000",
-    "winningPartyResult": 37.1,
+    "winningPartyResult": 34.1,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Sachsen-Anhalt",
     "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/csv/lt21dat1.csv",
     "parties": [
       {
         "name": "CDU",
-        "value": 37.1,
+        "value": 34.1,
         "colorHex": "#000000",
         "rank": 1
       },
       {
         "name": "AfD",
-        "value": 20.8,
+        "value": 21.8,
         "colorHex": "#007AFF",
         "rank": 2
       },
       {
         "name": "Linke",
-        "value": 11.0,
+        "value": 12.8,
         "colorHex": "#AF52DE",
         "rank": 3
       },
       {
         "name": "SPD",
-        "value": 8.4,
+        "value": 11.0,
         "colorHex": "#FF3B30",
         "rank": 4
       },
       {
         "name": "FDP",
-        "value": 6.4,
+        "value": 6.7,
         "colorHex": "#FFCC00",
         "rank": 5
       },
       {
         "name": "Grüne",
-        "value": 5.9,
+        "value": 5.7,
         "colorHex": "#34C759",
         "rank": 6
       },
       {
         "name": "Freie Wähler",
-        "value": 3.1,
+        "value": 5.4,
         "colorHex": "#FF9500",
         "rank": 7
       },
       {
         "name": "dieBasis",
-        "value": 1.5,
+        "value": 0.7,
         "colorHex": "#8E8E93",
         "rank": 8
       },
       {
-        "name": "Tierschutzpartei",
-        "value": 1.4,
+        "name": "Die PARTEI",
+        "value": 0.4,
         "colorHex": "#8E8E93",
         "rank": 9
       },
       {
-        "name": "Gartenpartei",
-        "value": 0.8,
+        "name": "Tierschutzallianz",
+        "value": 0.4,
         "colorHex": "#8E8E93",
         "rank": 10
       },
       {
-        "name": "Die PARTEI",
-        "value": 0.7,
+        "name": "Andere KWV",
+        "value": 0.3,
         "colorHex": "#8E8E93",
         "rank": 11
       },
       {
-        "name": "TIERSCHUTZ hier!",
-        "value": 0.6,
+        "name": "FBM",
+        "value": 0.3,
         "colorHex": "#8E8E93",
         "rank": 12
       },
       {
-        "name": "Tierschutzallianz",
-        "value": 0.5,
+        "name": "Gartenpartei",
+        "value": 0.3,
         "colorHex": "#8E8E93",
         "rank": 13
       },
       {
-        "name": "Gesundheitsforschung",
-        "value": 0.4,
+        "name": "Tierschutzpartei",
+        "value": 0.1,
         "colorHex": "#8E8E93",
         "rank": 14
       },
       {
-        "name": "PIRATEN",
-        "value": 0.4,
+        "name": "NPD",
+        "value": 0.0,
         "colorHex": "#8E8E93",
         "rank": 15
       },
       {
-        "name": "NPD",
-        "value": 0.3,
-        "colorHex": "#8E8E93",
-        "rank": 16
-      },
-      {
-        "name": "FBM",
-        "value": 0.2,
-        "colorHex": "#8E8E93",
-        "rank": 17
-      },
-      {
-        "name": "Die Humanisten",
-        "value": 0.1,
-        "colorHex": "#8E8E93",
-        "rank": 18
-      },
-      {
-        "name": "Klimaliste ST",
-        "value": 0.1,
-        "colorHex": "#8E8E93",
-        "rank": 19
-      },
-      {
         "name": "ÖDP",
-        "value": 0.1,
-        "colorHex": "#8E8E93",
-        "rank": 20
-      },
-      {
-        "name": "LKR",
         "value": 0.0,
         "colorHex": "#8E8E93",
-        "rank": 21
+        "rank": 16
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "06.06.2021"
+  },
+  "elections": [
+    {
+      "regionCode": "ST",
+      "regionName": "Sachsen-Anhalt",
+      "year": 2011,
+      "electionType": "Landtagswahl",
+      "electionDate": "20.03.2011",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 34.3,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Sachsen-Anhalt",
+      "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt16/erg/kreis/lt.15.ergtab.php",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 34.3,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "Linke",
+          "value": 24.6,
+          "colorHex": "#AF52DE",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 21.6,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 6.7,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 4.9,
+          "colorHex": "#FF9500",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 3.5,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        }
+      ]
+    },
+    {
+      "regionCode": "ST",
+      "regionName": "Sachsen-Anhalt",
+      "year": 2016,
+      "electionType": "Landtagswahl",
+      "electionDate": "13.03.2016",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 29.6,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Sachsen-Anhalt",
+      "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/kreis/lt.15.ergtab.php",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 29.6,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "AfD",
+          "value": 23.1,
+          "colorHex": "#007AFF",
+          "rank": 2
+        },
+        {
+          "name": "Linke",
+          "value": 18.7,
+          "colorHex": "#AF52DE",
+          "rank": 3
+        },
+        {
+          "name": "SPD",
+          "value": 14.3,
+          "colorHex": "#FF3B30",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 5.5,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "Grüne",
+          "value": 5.3,
+          "colorHex": "#34C759",
+          "rank": 6
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 2.1,
+          "colorHex": "#FF9500",
+          "rank": 7
+        },
+        {
+          "name": "FBM",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Gartenpartei",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Tierschutzallianz",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "regionCode": "ST",
+      "regionName": "Sachsen-Anhalt",
+      "year": 2021,
+      "electionType": "Landtagswahl",
+      "electionDate": "06.06.2021",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 34.1,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Sachsen-Anhalt",
+      "sourceURL": "https://wahlergebnisse.sachsen-anhalt.de/wahlen/lt21/erg/kreis/lt.15.ergtab.php",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 34.1,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "AfD",
+          "value": 21.8,
+          "colorHex": "#007AFF",
+          "rank": 2
+        },
+        {
+          "name": "Linke",
+          "value": 12.8,
+          "colorHex": "#AF52DE",
+          "rank": 3
+        },
+        {
+          "name": "SPD",
+          "value": 11.0,
+          "colorHex": "#FF3B30",
+          "rank": 4
+        },
+        {
+          "name": "FDP",
+          "value": 6.7,
+          "colorHex": "#FFCC00",
+          "rank": 5
+        },
+        {
+          "name": "Grüne",
+          "value": 5.7,
+          "colorHex": "#34C759",
+          "rank": 6
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 5.4,
+          "colorHex": "#FF9500",
+          "rank": 7
+        },
+        {
+          "name": "dieBasis",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Tierschutzallianz",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Andere KWV",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "FBM",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "Gartenpartei",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "NPD",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        }
+      ]
+    }
+  ]
 }

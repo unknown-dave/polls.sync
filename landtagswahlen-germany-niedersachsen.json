@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landesamt für Statistik Niedersachsen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:08Z",
+  "updatedAt": "2026-03-28T09:10:29Z",
   "regions": [
     {
       "regionCode": "NI",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "NI",
     "regionName": "Niedersachsen",
+    "year": 2022,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "09.10.2022",
-    "nextElectionDate": null,
+    "electionDate": "09.10.2022",
     "resultType": "voteSharePercent",
     "winningParty": "SPD",
     "winningPartyColor": "#FF3B30",
     "winningPartyResult": 33.4,
+    "nextElectionDate": null,
     "sourceLabel": "Landesamt für Statistik Niedersachsen",
     "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2022/wahlergebnis.xml",
     "parties": [
@@ -121,6 +122,303 @@
         "colorHex": "#8E8E93",
         "rank": 15
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "09.10.2022"
+  },
+  "elections": [
+    {
+      "regionCode": "NI",
+      "regionName": "Niedersachsen",
+      "year": 2013,
+      "electionType": "Landtagswahl",
+      "electionDate": "20.01.2013",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 36.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landesamt für Statistik Niedersachsen",
+      "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2013/wahlergebnis.xml",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 36.0,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 32.6,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 13.7,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "FDP",
+          "value": 9.9,
+          "colorHex": "#FFCC00",
+          "rank": 4
+        },
+        {
+          "name": "Linke",
+          "value": 3.1,
+          "colorHex": "#AF52DE",
+          "rank": 5
+        },
+        {
+          "name": "Sonstige",
+          "value": 2.5,
+          "colorHex": "#8E8E93",
+          "rank": 6
+        },
+        {
+          "name": "PIRATEN",
+          "value": 2.1,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 1.1,
+          "colorHex": "#FF9500",
+          "rank": 8
+        },
+        {
+          "name": "NPD",
+          "value": 0.8,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "DIE FREIHEIT Niedersachsen",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "PBC",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        }
+      ]
+    },
+    {
+      "regionCode": "NI",
+      "regionName": "Niedersachsen",
+      "year": 2017,
+      "electionType": "Landtagswahl",
+      "electionDate": "15.10.2017",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 36.9,
+      "nextElectionDate": null,
+      "sourceLabel": "Landesamt für Statistik Niedersachsen",
+      "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2017/wahlergebnis.xml",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 36.9,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 33.6,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 8.7,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "FDP",
+          "value": 7.5,
+          "colorHex": "#FFCC00",
+          "rank": 4
+        },
+        {
+          "name": "AfD Niedersachsen",
+          "value": 6.2,
+          "colorHex": "#8E8E93",
+          "rank": 5
+        },
+        {
+          "name": "Linke",
+          "value": 4.6,
+          "colorHex": "#AF52DE",
+          "rank": 6
+        },
+        {
+          "name": "Sonstige",
+          "value": 2.4,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.4,
+          "colorHex": "#FF9500",
+          "rank": 10
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "BGE",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "DM",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "LKR Niedersachsen",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        }
+      ]
+    },
+    {
+      "regionCode": "NI",
+      "regionName": "Niedersachsen",
+      "year": 2022,
+      "electionType": "Landtagswahl",
+      "electionDate": "09.10.2022",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 33.4,
+      "nextElectionDate": null,
+      "sourceLabel": "Landesamt für Statistik Niedersachsen",
+      "sourceURL": "https://wahlen.statistik.niedersachsen.de/LW2022/wahlergebnis.xml",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 33.4,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "CDU",
+          "value": 28.1,
+          "colorHex": "#000000",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 14.5,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "AfD",
+          "value": 11.0,
+          "colorHex": "#007AFF",
+          "rank": 4
+        },
+        {
+          "name": "Sonstige",
+          "value": 5.6,
+          "colorHex": "#8E8E93",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 4.7,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Linke",
+          "value": 2.7,
+          "colorHex": "#AF52DE",
+          "rank": 7
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 1.5,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "dieBasis",
+          "value": 1.0,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.9,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.8,
+          "colorHex": "#FF9500",
+          "rank": 11
+        },
+        {
+          "name": "Volt",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "Die Humanisten Niedersachsen",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        }
+      ]
+    }
+  ]
 }

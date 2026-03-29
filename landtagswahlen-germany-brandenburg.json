@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Brandenburg",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:13Z",
+  "updatedAt": "2026-03-28T09:33:02Z",
   "regions": [
     {
       "regionCode": "BB",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "BB",
     "regionName": "Brandenburg",
+    "year": 2024,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "22.09.2024",
-    "nextElectionDate": null,
+    "electionDate": "22.09.2024",
     "resultType": "voteSharePercent",
     "winningParty": "SPD",
     "winningPartyColor": "#FF3B30",
     "winningPartyResult": 30.9,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Brandenburg",
     "sourceURL": "https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/ergebnisse.html",
     "parties": [
@@ -115,6 +116,209 @@
         "colorHex": "#8E8E93",
         "rank": 14
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "22.09.2024"
+  },
+  "elections": [
+    {
+      "regionCode": "BB",
+      "regionName": "Brandenburg",
+      "year": 2019,
+      "electionType": "Landtagswahl",
+      "electionDate": "01.09.2019",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 26.2,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Brandenburg",
+      "sourceURL": "https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/ergebnisse.html",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 26.2,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "AfD",
+          "value": 23.5,
+          "colorHex": "#007AFF",
+          "rank": 2
+        },
+        {
+          "name": "CDU",
+          "value": 15.6,
+          "colorHex": "#000000",
+          "rank": 3
+        },
+        {
+          "name": "Grüne",
+          "value": 10.8,
+          "colorHex": "#34C759",
+          "rank": 4
+        },
+        {
+          "name": "Linke",
+          "value": 10.7,
+          "colorHex": "#AF52DE",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 4.1,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 2.6,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Plus",
+          "value": 1.3,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "BSW",
+          "value": 0.0,
+          "colorHex": "#FF2D55",
+          "rank": 9
+        },
+        {
+          "name": "DKP",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "DLW",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "III. Weg",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "Sonstige Direktbewerbende",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "WU",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        }
+      ]
+    },
+    {
+      "regionCode": "BB",
+      "regionName": "Brandenburg",
+      "year": 2024,
+      "electionType": "Landtagswahl",
+      "electionDate": "22.09.2024",
+      "resultType": "voteSharePercent",
+      "winningParty": "SPD",
+      "winningPartyColor": "#FF3B30",
+      "winningPartyResult": 30.9,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Brandenburg",
+      "sourceURL": "https://wahlergebnisse.brandenburg.de/12/500/20240922/landtagswahl_land/ergebnisse.html",
+      "parties": [
+        {
+          "name": "SPD",
+          "value": 30.9,
+          "colorHex": "#FF3B30",
+          "rank": 1
+        },
+        {
+          "name": "AfD",
+          "value": 29.2,
+          "colorHex": "#007AFF",
+          "rank": 2
+        },
+        {
+          "name": "BSW",
+          "value": 13.5,
+          "colorHex": "#FF2D55",
+          "rank": 3
+        },
+        {
+          "name": "CDU",
+          "value": 12.1,
+          "colorHex": "#000000",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 4.1,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "Linke",
+          "value": 3.0,
+          "colorHex": "#AF52DE",
+          "rank": 6
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 2.0,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Plus",
+          "value": 0.9,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "FDP",
+          "value": 0.8,
+          "colorHex": "#FFCC00",
+          "rank": 9
+        },
+        {
+          "name": "DLW",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "WU",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "DKP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "III. Weg",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Sonstige Direktbewerbende",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        }
+      ]
+    }
+  ]
 }

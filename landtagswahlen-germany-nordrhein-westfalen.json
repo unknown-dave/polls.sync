@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Nordrhein-Westfalen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:16Z",
+  "updatedAt": "2026-03-28T09:10:29Z",
   "regions": [
     {
       "regionCode": "NW",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "NW",
     "regionName": "Nordrhein-Westfalen",
+    "year": 2022,
     "electionType": "Landtagswahl",
-    "lastElectionDate": "15.05.2022",
-    "nextElectionDate": null,
+    "electionDate": "15.05.2022",
     "resultType": "voteSharePercent",
     "winningParty": "CDU",
     "winningPartyColor": "#000000",
     "winningPartyResult": 35.7,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Nordrhein-Westfalen",
     "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2022/aktuell/a000lw2200.shtml",
     "parties": [
@@ -199,6 +200,383 @@
         "colorHex": "#8E8E93",
         "rank": 28
       }
-    ]
-  }
+    ],
+    "lastElectionDate": "15.05.2022"
+  },
+  "elections": [
+    {
+      "regionCode": "NW",
+      "regionName": "Nordrhein-Westfalen",
+      "year": 2017,
+      "electionType": "Landtagswahl",
+      "electionDate": "14.05.2017",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 33.0,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Nordrhein-Westfalen",
+      "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2017/aktuell/a000lw1700.shtml",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 33.0,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 31.2,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "FDP",
+          "value": 12.6,
+          "colorHex": "#FFCC00",
+          "rank": 3
+        },
+        {
+          "name": "AfD",
+          "value": 7.4,
+          "colorHex": "#007AFF",
+          "rank": 4
+        },
+        {
+          "name": "Grüne",
+          "value": 6.4,
+          "colorHex": "#34C759",
+          "rank": 5
+        },
+        {
+          "name": "Linke",
+          "value": 4.9,
+          "colorHex": "#AF52DE",
+          "rank": 6
+        },
+        {
+          "name": "PIRATEN",
+          "value": 1.0,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "TIERSCHUTZliste",
+          "value": 0.7,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.4,
+          "colorHex": "#FF9500",
+          "rank": 10
+        },
+        {
+          "name": "NPD",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "BIG",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "AD-Demokraten NRW",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "AUFBRUCH C",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "BGE",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        },
+        {
+          "name": "DBD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 17
+        },
+        {
+          "name": "DIE VIOLETTEN",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 18
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 19
+        },
+        {
+          "name": "JED",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 20
+        },
+        {
+          "name": "MLPD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 21
+        },
+        {
+          "name": "REP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 22
+        },
+        {
+          "name": "Schöner Leben",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 23
+        },
+        {
+          "name": "DIE RECHTE",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 24
+        },
+        {
+          "name": "DKP",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 25
+        },
+        {
+          "name": "FBI/FWG",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 26
+        },
+        {
+          "name": "PAN",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 27
+        },
+        {
+          "name": "PARTEILOSE WG „BRD“",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 28
+        },
+        {
+          "name": "ZENTRUM",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 29
+        }
+      ]
+    },
+    {
+      "regionCode": "NW",
+      "regionName": "Nordrhein-Westfalen",
+      "year": 2022,
+      "electionType": "Landtagswahl",
+      "electionDate": "15.05.2022",
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 35.7,
+      "nextElectionDate": null,
+      "sourceLabel": "Landeswahlleiter Nordrhein-Westfalen",
+      "sourceURL": "https://www.wahlergebnisse.nrw/landtagswahlen/2022/aktuell/a000lw2200.shtml",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 35.7,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "SPD",
+          "value": 26.7,
+          "colorHex": "#FF3B30",
+          "rank": 2
+        },
+        {
+          "name": "Grüne",
+          "value": 18.2,
+          "colorHex": "#34C759",
+          "rank": 3
+        },
+        {
+          "name": "FDP",
+          "value": 5.9,
+          "colorHex": "#FFCC00",
+          "rank": 4
+        },
+        {
+          "name": "AfD",
+          "value": 5.4,
+          "colorHex": "#007AFF",
+          "rank": 5
+        },
+        {
+          "name": "Linke",
+          "value": 2.1,
+          "colorHex": "#AF52DE",
+          "rank": 6
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 1.1,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "dieBasis",
+          "value": 0.8,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.7,
+          "colorHex": "#FF9500",
+          "rank": 10
+        },
+        {
+          "name": "Volt",
+          "value": 0.6,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "FAMILIE",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Team Todenhöfer",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 14
+        },
+        {
+          "name": "BIG",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "DSP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        },
+        {
+          "name": "Die Humanisten",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 17
+        },
+        {
+          "name": "Die Urbane.",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 18
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 19
+        },
+        {
+          "name": "LIEBE",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 20
+        },
+        {
+          "name": "LfK",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 21
+        },
+        {
+          "name": "PdF",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 22
+        },
+        {
+          "name": "ZENTRUM",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 23
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 24
+        },
+        {
+          "name": "DIE VIOLETTEN",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 25
+        },
+        {
+          "name": "DKP",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 26
+        },
+        {
+          "name": "MLPD",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 27
+        },
+        {
+          "name": "neo",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 28
+        }
+      ]
+    }
+  ]
 }

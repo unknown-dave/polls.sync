@@ -217,6 +217,213 @@
         "colorHex": "#8E8E93",
         "rank": 31
       }
-    ]
-  }
+    ],
+    "electionDate": "12.02.2023",
+    "year": 2023
+  },
+  "elections": [
+    {
+      "regionCode": "BE",
+      "regionName": "Berlin",
+      "electionType": "Abgeordnetenhauswahl",
+      "lastElectionDate": "12.02.2023",
+      "nextElectionDate": null,
+      "resultType": "voteSharePercent",
+      "winningParty": "CDU",
+      "winningPartyColor": "#000000",
+      "winningPartyResult": 28.2,
+      "sourceLabel": "Landeswahlleiter Berlin",
+      "sourceURL": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/index.html",
+      "parties": [
+        {
+          "name": "CDU",
+          "value": 28.2,
+          "colorHex": "#000000",
+          "rank": 1
+        },
+        {
+          "name": "Grüne",
+          "value": 18.4,
+          "colorHex": "#34C759",
+          "rank": 2
+        },
+        {
+          "name": "SPD",
+          "value": 18.4,
+          "colorHex": "#FF3B30",
+          "rank": 3
+        },
+        {
+          "name": "Linke",
+          "value": 12.2,
+          "colorHex": "#AF52DE",
+          "rank": 4
+        },
+        {
+          "name": "AfD",
+          "value": 9.1,
+          "colorHex": "#007AFF",
+          "rank": 5
+        },
+        {
+          "name": "FDP",
+          "value": 4.6,
+          "colorHex": "#FFCC00",
+          "rank": 6
+        },
+        {
+          "name": "Tierschutzpartei",
+          "value": 2.4,
+          "colorHex": "#8E8E93",
+          "rank": 7
+        },
+        {
+          "name": "Die PARTEI",
+          "value": 1.4,
+          "colorHex": "#8E8E93",
+          "rank": 8
+        },
+        {
+          "name": "Volt",
+          "value": 0.9,
+          "colorHex": "#8E8E93",
+          "rank": 9
+        },
+        {
+          "name": "dieBasis",
+          "value": 0.5,
+          "colorHex": "#8E8E93",
+          "rank": 10
+        },
+        {
+          "name": "Die Grauen",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 11
+        },
+        {
+          "name": "Graue Panther",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 12
+        },
+        {
+          "name": "Team Todenhöfer",
+          "value": 0.4,
+          "colorHex": "#8E8E93",
+          "rank": 13
+        },
+        {
+          "name": "Freie Wähler",
+          "value": 0.3,
+          "colorHex": "#FF9500",
+          "rank": 14
+        },
+        {
+          "name": "Klimaliste Berlin",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 15
+        },
+        {
+          "name": "MIETERPARTEI",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 16
+        },
+        {
+          "name": "PIRATEN",
+          "value": 0.3,
+          "colorHex": "#8E8E93",
+          "rank": 17
+        },
+        {
+          "name": "DKP",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 18
+        },
+        {
+          "name": "Die Humanisten",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 19
+        },
+        {
+          "name": "Gesundheitsforschung",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 20
+        },
+        {
+          "name": "du.",
+          "value": 0.2,
+          "colorHex": "#8E8E93",
+          "rank": 21
+        },
+        {
+          "name": "Bildet Berlin!",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 22
+        },
+        {
+          "name": "NPD",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 23
+        },
+        {
+          "name": "SGP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 24
+        },
+        {
+          "name": "ÖDP",
+          "value": 0.1,
+          "colorHex": "#8E8E93",
+          "rank": 25
+        },
+        {
+          "name": "BüSo",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 26
+        },
+        {
+          "name": "Deutsche Konservative",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 27
+        },
+        {
+          "name": "LKR",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 28
+        },
+        {
+          "name": "MENSCHLICHE WELT",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 29
+        },
+        {
+          "name": "Neue Demokraten",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 30
+        },
+        {
+          "name": "REP",
+          "value": 0.0,
+          "colorHex": "#8E8E93",
+          "rank": 31
+        }
+      ],
+      "electionDate": "12.02.2023",
+      "year": 2023
+    }
+  ]
 }
