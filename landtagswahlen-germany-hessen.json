@@ -69,7 +69,19 @@
         "rank": 6
       }
     ],
-    "lastElectionDate": "08.10.2023"
+    "lastElectionDate": "08.10.2023",
+    "governmentParties": [
+      "CDU",
+      "SPD"
+    ],
+    "oppositionParties": [
+      "AfD",
+      "Grüne",
+      "FDP"
+    ],
+    "parliament": {
+      "seatTotal": 133
+    }
   },
   "elections": [
     {
@@ -174,7 +186,19 @@
           "colorHex": "#FFCC00",
           "rank": 6
         }
-      ]
+      ],
+      "governmentParties": [
+        "CDU",
+        "SPD"
+      ],
+      "oppositionParties": [
+        "AfD",
+        "Grüne",
+        "FDP"
+      ],
+      "parliament": {
+        "seatTotal": 133
+      }
     }
   ]
 }

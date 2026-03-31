@@ -81,7 +81,18 @@
       }
     ],
     "electionDate": "27.03.2022",
-    "year": 2022
+    "year": 2022,
+    "governmentParties": [
+      "SPD"
+    ],
+    "oppositionParties": [
+      "CDU",
+      "AfD",
+      "Grüne"
+    ],
+    "parliament": {
+      "seatTotal": 51
+    }
   },
   "elections": [
     {
@@ -229,7 +240,18 @@
         }
       ],
       "electionDate": "27.03.2022",
-      "year": 2022
+      "year": 2022,
+      "governmentParties": [
+        "SPD"
+      ],
+      "oppositionParties": [
+        "CDU",
+        "AfD",
+        "Grüne"
+      ],
+      "parliament": {
+        "seatTotal": 51
+      }
     }
   ]
 }

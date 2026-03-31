@@ -129,7 +129,19 @@
         "rank": 16
       }
     ],
-    "lastElectionDate": "02.03.2025"
+    "lastElectionDate": "02.03.2025",
+    "governmentParties": [
+      "SPD",
+      "Grüne"
+    ],
+    "oppositionParties": [
+      "CDU",
+      "Linke",
+      "AfD"
+    ],
+    "parliament": {
+      "seatTotal": 121
+    }
   },
   "elections": [
     {
@@ -348,7 +360,19 @@
           "colorHex": "#8E8E93",
           "rank": 16
         }
-      ]
+      ],
+      "governmentParties": [
+        "SPD",
+        "Grüne"
+      ],
+      "oppositionParties": [
+        "CDU",
+        "Linke",
+        "AfD"
+      ],
+      "parliament": {
+        "seatTotal": 121
+      }
     }
   ]
 }

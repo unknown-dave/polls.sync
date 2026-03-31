@@ -117,7 +117,19 @@
         "rank": 14
       }
     ],
-    "lastElectionDate": "08.10.2023"
+    "lastElectionDate": "08.10.2023",
+    "governmentParties": [
+      "CSU",
+      "Freie Wähler"
+    ],
+    "oppositionParties": [
+      "AfD",
+      "Grüne",
+      "SPD"
+    ],
+    "parliament": {
+      "seatTotal": 203
+    }
   },
   "elections": [
     {
@@ -306,7 +318,19 @@
           "colorHex": "#8E8E93",
           "rank": 14
         }
-      ]
+      ],
+      "governmentParties": [
+        "CSU",
+        "Freie Wähler"
+      ],
+      "oppositionParties": [
+        "AfD",
+        "Grüne",
+        "SPD"
+      ],
+      "parliament": {
+        "seatTotal": 203
+      }
     }
   ]
 }

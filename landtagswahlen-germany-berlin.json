@@ -219,7 +219,19 @@
       }
     ],
     "electionDate": "12.02.2023",
-    "year": 2023
+    "year": 2023,
+    "governmentParties": [
+      "CDU",
+      "SPD"
+    ],
+    "oppositionParties": [
+      "Grüne",
+      "Linke",
+      "AfD"
+    ],
+    "parliament": {
+      "seatTotal": 159
+    }
   },
   "elections": [
     {
@@ -423,7 +435,19 @@
         }
       ],
       "electionDate": "12.02.2023",
-      "year": 2023
+      "year": 2023,
+      "governmentParties": [
+        "CDU",
+        "SPD"
+      ],
+      "oppositionParties": [
+        "Grüne",
+        "Linke",
+        "AfD"
+      ],
+      "parliament": {
+        "seatTotal": 159
+      }
     }
   ]
 }

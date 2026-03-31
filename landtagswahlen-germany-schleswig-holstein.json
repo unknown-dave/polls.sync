@@ -123,7 +123,19 @@
         "rank": 15
       }
     ],
-    "lastElectionDate": "08.05.2022"
+    "lastElectionDate": "08.05.2022",
+    "governmentParties": [
+      "CDU",
+      "Grüne"
+    ],
+    "oppositionParties": [
+      "SPD",
+      "FDP",
+      "SSW"
+    ],
+    "parliament": {
+      "seatTotal": 69
+    }
   },
   "elections": [
     {
@@ -324,7 +336,19 @@
           "colorHex": "#8E8E93",
           "rank": 15
         }
-      ]
+      ],
+      "governmentParties": [
+        "CDU",
+        "Grüne"
+      ],
+      "oppositionParties": [
+        "SPD",
+        "FDP",
+        "SSW"
+      ],
+      "parliament": {
+        "seatTotal": 69
+      }
     }
   ]
 }

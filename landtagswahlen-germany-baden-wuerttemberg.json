@@ -177,7 +177,20 @@
         "rank": 24
       }
     ],
-    "lastElectionDate": "08.03.2026"
+    "lastElectionDate": "08.03.2026",
+    "governmentParties": [
+      "Grüne",
+      "CDU"
+    ],
+    "oppositionParties": [
+      "Wählende insgesamt",
+      "AfD",
+      "Wahlstatistik",
+      "SPD"
+    ],
+    "parliament": {
+      "seatTotal": 157
+    }
   },
   "elections": [
     {
@@ -486,7 +499,20 @@
           "colorHex": "#8E8E93",
           "rank": 24
         }
-      ]
+      ],
+      "governmentParties": [
+        "Grüne",
+        "CDU"
+      ],
+      "oppositionParties": [
+        "Wählende insgesamt",
+        "AfD",
+        "Wahlstatistik",
+        "SPD"
+      ],
+      "parliament": {
+        "seatTotal": 157
+      }
     }
   ]
 }

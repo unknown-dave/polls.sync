@@ -75,7 +75,20 @@
       }
     ],
     "electionDate": "14.05.2023",
-    "year": 2023
+    "year": 2023,
+    "governmentParties": [
+      "SPD",
+      "Grüne",
+      "Linke"
+    ],
+    "oppositionParties": [
+      "CDU",
+      "BIW",
+      "FDP"
+    ],
+    "parliament": {
+      "seatTotal": 87
+    }
   },
   "elections": [
     {
@@ -135,7 +148,20 @@
         }
       ],
       "electionDate": "14.05.2023",
-      "year": 2023
+      "year": 2023,
+      "governmentParties": [
+        "SPD",
+        "Grüne",
+        "Linke"
+      ],
+      "oppositionParties": [
+        "CDU",
+        "BIW",
+        "FDP"
+      ],
+      "parliament": {
+        "seatTotal": 87
+      }
     }
   ]
 }

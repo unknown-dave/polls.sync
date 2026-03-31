@@ -177,7 +177,20 @@
         "rank": 24
       }
     ],
-    "lastElectionDate": "26.09.2021"
+    "lastElectionDate": "26.09.2021",
+    "governmentParties": [
+      "SPD",
+      "Linke"
+    ],
+    "oppositionParties": [
+      "AfD",
+      "CDU",
+      "Grüne",
+      "FDP"
+    ],
+    "parliament": {
+      "seatTotal": 79
+    }
   },
   "elections": [
     {
@@ -456,7 +469,20 @@
           "colorHex": "#8E8E93",
           "rank": 24
         }
-      ]
+      ],
+      "governmentParties": [
+        "SPD",
+        "Linke"
+      ],
+      "oppositionParties": [
+        "AfD",
+        "CDU",
+        "Grüne",
+        "FDP"
+      ],
+      "parliament": {
+        "seatTotal": 79
+      }
     }
   ]
 }

@@ -147,7 +147,19 @@
         "rank": 19
       }
     ],
-    "lastElectionDate": "01.09.2024"
+    "lastElectionDate": "01.09.2024",
+    "governmentParties": [
+      "CDU",
+      "SPD"
+    ],
+    "oppositionParties": [
+      "AfD",
+      "BSW",
+      "Grüne"
+    ],
+    "parliament": {
+      "seatTotal": 120
+    }
   },
   "elections": [
     {
@@ -544,7 +556,19 @@
           "colorHex": "#8E8E93",
           "rank": 19
         }
-      ]
+      ],
+      "governmentParties": [
+        "CDU",
+        "SPD"
+      ],
+      "oppositionParties": [
+        "AfD",
+        "BSW",
+        "Grüne"
+      ],
+      "parliament": {
+        "seatTotal": 120
+      }
     }
   ]
 }
