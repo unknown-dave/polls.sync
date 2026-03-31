@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Nordrhein-Westfalen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:10:29Z",
+  "updatedAt": "2026-03-31T12:53:27Z",
   "regions": [
     {
       "regionCode": "NW",
@@ -201,7 +201,6 @@
         "rank": 28
       }
     ],
-    "lastElectionDate": "15.05.2022",
     "governmentParties": [
       "CDU",
       "Grüne"
@@ -212,8 +211,31 @@
       "AfD"
     ],
     "parliament": {
-      "seatTotal": 195
-    }
+      "seatTotal": 195,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 76
+        },
+        {
+          "name": "SPD",
+          "seats": 56
+        },
+        {
+          "name": "Grüne",
+          "seats": 39
+        },
+        {
+          "name": "FDP",
+          "seats": 12
+        },
+        {
+          "name": "AfD",
+          "seats": 12
+        }
+      ]
+    },
+    "lastElectionDate": "15.05.2022"
   },
   "elections": [
     {
@@ -599,7 +621,29 @@
         "AfD"
       ],
       "parliament": {
-        "seatTotal": 195
+        "seatTotal": 195,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 76
+          },
+          {
+            "name": "SPD",
+            "seats": 56
+          },
+          {
+            "name": "Grüne",
+            "seats": 39
+          },
+          {
+            "name": "FDP",
+            "seats": 12
+          },
+          {
+            "name": "AfD",
+            "seats": 12
+          }
+        ]
       }
     }
   ]

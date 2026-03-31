@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Brandenburg",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:33:02Z",
+  "updatedAt": "2026-03-31T12:53:15Z",
   "regions": [
     {
       "regionCode": "BB",
@@ -117,7 +117,6 @@
         "rank": 14
       }
     ],
-    "lastElectionDate": "22.09.2024",
     "governmentParties": [
       "SPD",
       "BSW"
@@ -127,8 +126,27 @@
       "CDU"
     ],
     "parliament": {
-      "seatTotal": 88
-    }
+      "seatTotal": 88,
+      "parties": [
+        {
+          "name": "SPD",
+          "seats": 32
+        },
+        {
+          "name": "AfD",
+          "seats": 30
+        },
+        {
+          "name": "BSW",
+          "seats": 14
+        },
+        {
+          "name": "CDU",
+          "seats": 12
+        }
+      ]
+    },
+    "lastElectionDate": "22.09.2024"
   },
   "elections": [
     {
@@ -339,7 +357,25 @@
         "CDU"
       ],
       "parliament": {
-        "seatTotal": 88
+        "seatTotal": 88,
+        "parties": [
+          {
+            "name": "SPD",
+            "seats": 32
+          },
+          {
+            "name": "AfD",
+            "seats": 30
+          },
+          {
+            "name": "BSW",
+            "seats": 14
+          },
+          {
+            "name": "CDU",
+            "seats": 12
+          }
+        ]
       }
     }
   ]

@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlamt Hamburg / Statistikamt Nord",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:10:26Z",
+  "updatedAt": "2026-03-31T12:53:14Z",
   "regions": [
     {
       "regionCode": "HH",
@@ -129,7 +129,6 @@
         "rank": 16
       }
     ],
-    "lastElectionDate": "02.03.2025",
     "governmentParties": [
       "SPD",
       "Grüne"
@@ -140,8 +139,31 @@
       "AfD"
     ],
     "parliament": {
-      "seatTotal": 121
-    }
+      "seatTotal": 121,
+      "parties": [
+        {
+          "name": "SPD",
+          "seats": 45
+        },
+        {
+          "name": "CDU",
+          "seats": 26
+        },
+        {
+          "name": "Grüne",
+          "seats": 25
+        },
+        {
+          "name": "Linke",
+          "seats": 15
+        },
+        {
+          "name": "AfD",
+          "seats": 10
+        }
+      ]
+    },
+    "lastElectionDate": "02.03.2025"
   },
   "elections": [
     {
@@ -371,7 +393,29 @@
         "AfD"
       ],
       "parliament": {
-        "seatTotal": 121
+        "seatTotal": 121,
+        "parties": [
+          {
+            "name": "SPD",
+            "seats": 45
+          },
+          {
+            "name": "CDU",
+            "seats": 26
+          },
+          {
+            "name": "Grüne",
+            "seats": 25
+          },
+          {
+            "name": "Linke",
+            "seats": 15
+          },
+          {
+            "name": "AfD",
+            "seats": 10
+          }
+        ]
       }
     }
   ]

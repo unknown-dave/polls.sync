@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Berlin",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:13Z",
+  "updatedAt": "2026-03-31T12:53:16Z",
   "regions": [
     {
       "regionCode": "BE",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "BE",
     "regionName": "Berlin",
+    "year": 2023,
     "electionType": "Abgeordnetenhauswahl",
-    "lastElectionDate": "12.02.2023",
-    "nextElectionDate": null,
+    "electionDate": "12.02.2023",
     "resultType": "voteSharePercent",
     "winningParty": "CDU",
     "winningPartyColor": "#000000",
     "winningPartyResult": 28.2,
+    "nextElectionDate": null,
     "sourceLabel": "Landeswahlleiter Berlin",
     "sourceURL": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/index.html",
     "parties": [
@@ -218,8 +219,6 @@
         "rank": 31
       }
     ],
-    "electionDate": "12.02.2023",
-    "year": 2023,
     "governmentParties": [
       "CDU",
       "SPD"
@@ -230,20 +229,44 @@
       "AfD"
     ],
     "parliament": {
-      "seatTotal": 159
-    }
+      "seatTotal": 159,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 52
+        },
+        {
+          "name": "SPD",
+          "seats": 34
+        },
+        {
+          "name": "Grüne",
+          "seats": 34
+        },
+        {
+          "name": "Linke",
+          "seats": 22
+        },
+        {
+          "name": "AfD",
+          "seats": 17
+        }
+      ]
+    },
+    "lastElectionDate": "12.02.2023"
   },
   "elections": [
     {
       "regionCode": "BE",
       "regionName": "Berlin",
+      "year": 2023,
       "electionType": "Abgeordnetenhauswahl",
-      "lastElectionDate": "12.02.2023",
-      "nextElectionDate": null,
+      "electionDate": "12.02.2023",
       "resultType": "voteSharePercent",
       "winningParty": "CDU",
       "winningPartyColor": "#000000",
       "winningPartyResult": 28.2,
+      "nextElectionDate": null,
       "sourceLabel": "Landeswahlleiter Berlin",
       "sourceURL": "https://www.wahlen-berlin.de/wahlen/BE2023/AFSPRAES/agh/index.html",
       "parties": [
@@ -434,8 +457,6 @@
           "rank": 31
         }
       ],
-      "electionDate": "12.02.2023",
-      "year": 2023,
       "governmentParties": [
         "CDU",
         "SPD"
@@ -446,7 +467,29 @@
         "AfD"
       ],
       "parliament": {
-        "seatTotal": 159
+        "seatTotal": 159,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 52
+          },
+          {
+            "name": "SPD",
+            "seats": 34
+          },
+          {
+            "name": "Grüne",
+            "seats": 34
+          },
+          {
+            "name": "Linke",
+            "seats": 22
+          },
+          {
+            "name": "AfD",
+            "seats": 17
+          }
+        ]
       }
     }
   ]

@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landesamt für Statistik Niedersachsen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:10:29Z",
+  "updatedAt": "2026-03-31T12:53:11Z",
   "regions": [
     {
       "regionCode": "NI",
@@ -123,7 +123,6 @@
         "rank": 15
       }
     ],
-    "lastElectionDate": "09.10.2022",
     "governmentParties": [
       "SPD",
       "Grüne"
@@ -133,8 +132,27 @@
       "AfD"
     ],
     "parliament": {
-      "seatTotal": 146
-    }
+      "seatTotal": 146,
+      "parties": [
+        {
+          "name": "SPD",
+          "seats": 57
+        },
+        {
+          "name": "CDU",
+          "seats": 47
+        },
+        {
+          "name": "Grüne",
+          "seats": 24
+        },
+        {
+          "name": "AfD",
+          "seats": 18
+        }
+      ]
+    },
+    "lastElectionDate": "09.10.2022"
   },
   "elections": [
     {
@@ -439,7 +457,25 @@
         "AfD"
       ],
       "parliament": {
-        "seatTotal": 146
+        "seatTotal": 146,
+        "parties": [
+          {
+            "name": "SPD",
+            "seats": 57
+          },
+          {
+            "name": "CDU",
+            "seats": 47
+          },
+          {
+            "name": "Grüne",
+            "seats": 24
+          },
+          {
+            "name": "AfD",
+            "seats": 18
+          }
+        ]
       }
     }
   ]

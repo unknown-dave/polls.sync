@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Hessen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:10:26Z",
+  "updatedAt": "2026-03-31T12:53:27Z",
   "regions": [
     {
       "regionCode": "HE",
@@ -69,7 +69,6 @@
         "rank": 6
       }
     ],
-    "lastElectionDate": "08.10.2023",
     "governmentParties": [
       "CDU",
       "SPD"
@@ -80,8 +79,31 @@
       "FDP"
     ],
     "parliament": {
-      "seatTotal": 133
-    }
+      "seatTotal": 133,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 52
+        },
+        {
+          "name": "AfD",
+          "seats": 28
+        },
+        {
+          "name": "SPD",
+          "seats": 23
+        },
+        {
+          "name": "Grüne",
+          "seats": 22
+        },
+        {
+          "name": "FDP",
+          "seats": 8
+        }
+      ]
+    },
+    "lastElectionDate": "08.10.2023"
   },
   "elections": [
     {
@@ -197,7 +219,29 @@
         "FDP"
       ],
       "parliament": {
-        "seatTotal": 133
+        "seatTotal": 133,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 52
+          },
+          {
+            "name": "AfD",
+            "seats": 28
+          },
+          {
+            "name": "SPD",
+            "seats": 23
+          },
+          {
+            "name": "Grüne",
+            "seats": 22
+          },
+          {
+            "name": "FDP",
+            "seats": 8
+          }
+        ]
       }
     }
   ]

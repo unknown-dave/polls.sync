@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:33:04Z",
+  "updatedAt": "2026-03-31T12:53:27Z",
   "regions": [
     {
       "regionCode": "SN",
@@ -147,7 +147,6 @@
         "rank": 19
       }
     ],
-    "lastElectionDate": "01.09.2024",
     "governmentParties": [
       "CDU",
       "SPD"
@@ -158,8 +157,39 @@
       "Grüne"
     ],
     "parliament": {
-      "seatTotal": 120
-    }
+      "seatTotal": 120,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 41
+        },
+        {
+          "name": "AfD",
+          "seats": 40
+        },
+        {
+          "name": "BSW",
+          "seats": 15
+        },
+        {
+          "name": "SPD",
+          "seats": 10
+        },
+        {
+          "name": "Grüne",
+          "seats": 7
+        },
+        {
+          "name": "Linke",
+          "seats": 6
+        },
+        {
+          "name": "Freie Wähler",
+          "seats": 1
+        }
+      ]
+    },
+    "lastElectionDate": "01.09.2024"
   },
   "elections": [
     {
@@ -567,7 +597,37 @@
         "Grüne"
       ],
       "parliament": {
-        "seatTotal": 120
+        "seatTotal": 120,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 41
+          },
+          {
+            "name": "AfD",
+            "seats": 40
+          },
+          {
+            "name": "BSW",
+            "seats": 15
+          },
+          {
+            "name": "SPD",
+            "seats": 10
+          },
+          {
+            "name": "Grüne",
+            "seats": 7
+          },
+          {
+            "name": "Linke",
+            "seats": 6
+          },
+          {
+            "name": "Freie Wähler",
+            "seats": 1
+          }
+        ]
       }
     }
   ]

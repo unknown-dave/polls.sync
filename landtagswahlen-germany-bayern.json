@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Bayerisches Landesamt für Statistik",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:33:02Z",
+  "updatedAt": "2026-03-31T12:53:28Z",
   "regions": [
     {
       "regionCode": "BY",
@@ -117,7 +117,6 @@
         "rank": 14
       }
     ],
-    "lastElectionDate": "08.10.2023",
     "governmentParties": [
       "CSU",
       "Freie Wähler"
@@ -128,8 +127,31 @@
       "SPD"
     ],
     "parliament": {
-      "seatTotal": 203
-    }
+      "seatTotal": 203,
+      "parties": [
+        {
+          "name": "CSU",
+          "seats": 85
+        },
+        {
+          "name": "Freie Wähler",
+          "seats": 37
+        },
+        {
+          "name": "Grüne",
+          "seats": 32
+        },
+        {
+          "name": "AfD",
+          "seats": 32
+        },
+        {
+          "name": "SPD",
+          "seats": 17
+        }
+      ]
+    },
+    "lastElectionDate": "08.10.2023"
   },
   "elections": [
     {
@@ -329,7 +351,29 @@
         "SPD"
       ],
       "parliament": {
-        "seatTotal": 203
+        "seatTotal": 203,
+        "parties": [
+          {
+            "name": "CSU",
+            "seats": 85
+          },
+          {
+            "name": "Freie Wähler",
+            "seats": 37
+          },
+          {
+            "name": "Grüne",
+            "seats": 32
+          },
+          {
+            "name": "AfD",
+            "seats": 32
+          },
+          {
+            "name": "SPD",
+            "seats": 17
+          }
+        ]
       }
     }
   ]

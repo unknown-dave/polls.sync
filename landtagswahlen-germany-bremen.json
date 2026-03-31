@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Wahlen im Land Bremen",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-26T15:05:12Z",
+  "updatedAt": "2026-03-31T12:53:14Z",
   "regions": [
     {
       "regionCode": "HB",
@@ -21,13 +21,14 @@
   "election": {
     "regionCode": "HB",
     "regionName": "Bremen",
+    "year": 2023,
     "electionType": "Bürgerschaftswahl",
-    "lastElectionDate": "14.05.2023",
-    "nextElectionDate": null,
+    "electionDate": "14.05.2023",
     "resultType": "voteSharePercent",
     "winningParty": "SPD",
     "winningPartyColor": "#FF3B30",
     "winningPartyResult": 29.8,
+    "nextElectionDate": null,
     "sourceLabel": "Wahlen im Land Bremen",
     "sourceURL": "https://www.wahlen.bremen.de/sixcms/media.php/13/NEU%20B%C3%BCrgerschaftswahlen%20%28Landtag%29%20im%20Land%20Bremen%201947%20bis%202023%20nach%20Wahlbereichen.pdf",
     "parties": [
@@ -74,8 +75,6 @@
         "rank": 7
       }
     ],
-    "electionDate": "14.05.2023",
-    "year": 2023,
     "governmentParties": [
       "SPD",
       "Grüne",
@@ -87,20 +86,48 @@
       "FDP"
     ],
     "parliament": {
-      "seatTotal": 87
-    }
+      "seatTotal": 87,
+      "parties": [
+        {
+          "name": "SPD",
+          "seats": 27
+        },
+        {
+          "name": "CDU",
+          "seats": 24
+        },
+        {
+          "name": "Grüne",
+          "seats": 11
+        },
+        {
+          "name": "Linke",
+          "seats": 10
+        },
+        {
+          "name": "BIW",
+          "seats": 10
+        },
+        {
+          "name": "FDP",
+          "seats": 5
+        }
+      ]
+    },
+    "lastElectionDate": "14.05.2023"
   },
   "elections": [
     {
       "regionCode": "HB",
       "regionName": "Bremen",
+      "year": 2023,
       "electionType": "Bürgerschaftswahl",
-      "lastElectionDate": "14.05.2023",
-      "nextElectionDate": null,
+      "electionDate": "14.05.2023",
       "resultType": "voteSharePercent",
       "winningParty": "SPD",
       "winningPartyColor": "#FF3B30",
       "winningPartyResult": 29.8,
+      "nextElectionDate": null,
       "sourceLabel": "Wahlen im Land Bremen",
       "sourceURL": "https://www.wahlen.bremen.de/sixcms/media.php/13/NEU%20B%C3%BCrgerschaftswahlen%20%28Landtag%29%20im%20Land%20Bremen%201947%20bis%202023%20nach%20Wahlbereichen.pdf",
       "parties": [
@@ -147,8 +174,6 @@
           "rank": 7
         }
       ],
-      "electionDate": "14.05.2023",
-      "year": 2023,
       "governmentParties": [
         "SPD",
         "Grüne",
@@ -160,7 +185,33 @@
         "FDP"
       ],
       "parliament": {
-        "seatTotal": 87
+        "seatTotal": 87,
+        "parties": [
+          {
+            "name": "SPD",
+            "seats": 27
+          },
+          {
+            "name": "CDU",
+            "seats": 24
+          },
+          {
+            "name": "Grüne",
+            "seats": 11
+          },
+          {
+            "name": "Linke",
+            "seats": 10
+          },
+          {
+            "name": "BIW",
+            "seats": 10
+          },
+          {
+            "name": "FDP",
+            "seats": 5
+          }
+        ]
       }
     }
   ]

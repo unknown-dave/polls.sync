@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Rheinland-Pfalz",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:10:29Z",
+  "updatedAt": "2026-03-31T12:53:27Z",
   "regions": [
     {
       "regionCode": "RP",
@@ -105,7 +105,6 @@
         "rank": 12
       }
     ],
-    "lastElectionDate": "22.03.2026",
     "governmentParties": [
       "SPD",
       "Grüne",
@@ -116,8 +115,27 @@
       "AfD"
     ],
     "parliament": {
-      "seatTotal": 101
-    }
+      "seatTotal": 105,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 39
+        },
+        {
+          "name": "SPD",
+          "seats": 32
+        },
+        {
+          "name": "AfD",
+          "seats": 24
+        },
+        {
+          "name": "Grüne",
+          "seats": 10
+        }
+      ]
+    },
+    "lastElectionDate": "22.03.2026"
   },
   "elections": [
     {
@@ -293,7 +311,25 @@
         "AfD"
       ],
       "parliament": {
-        "seatTotal": 101
+        "seatTotal": 105,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 39
+          },
+          {
+            "name": "SPD",
+            "seats": 32
+          },
+          {
+            "name": "AfD",
+            "seats": 24
+          },
+          {
+            "name": "Grüne",
+            "seats": 10
+          }
+        ]
       }
     }
   ]

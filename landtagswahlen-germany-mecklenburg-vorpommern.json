@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiterin Mecklenburg-Vorpommern",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:33:03Z",
+  "updatedAt": "2026-03-31T12:53:15Z",
   "regions": [
     {
       "regionCode": "MV",
@@ -177,7 +177,6 @@
         "rank": 24
       }
     ],
-    "lastElectionDate": "26.09.2021",
     "governmentParties": [
       "SPD",
       "Linke"
@@ -189,8 +188,31 @@
       "FDP"
     ],
     "parliament": {
-      "seatTotal": 79
-    }
+      "seatTotal": 79,
+      "parties": [
+        {
+          "name": "SPD",
+          "seats": 34
+        },
+        {
+          "name": "AfD",
+          "seats": 16
+        },
+        {
+          "name": "CDU",
+          "seats": 12
+        },
+        {
+          "name": "Linke",
+          "seats": 9
+        },
+        {
+          "name": "Grüne",
+          "seats": 8
+        }
+      ]
+    },
+    "lastElectionDate": "26.09.2021"
   },
   "elections": [
     {
@@ -481,7 +503,29 @@
         "FDP"
       ],
       "parliament": {
-        "seatTotal": 79
+        "seatTotal": 79,
+        "parties": [
+          {
+            "name": "SPD",
+            "seats": 34
+          },
+          {
+            "name": "AfD",
+            "seats": 16
+          },
+          {
+            "name": "CDU",
+            "seats": 12
+          },
+          {
+            "name": "Linke",
+            "seats": 9
+          },
+          {
+            "name": "Grüne",
+            "seats": 8
+          }
+        ]
       }
     }
   ]

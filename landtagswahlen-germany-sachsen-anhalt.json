@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Landeswahlleiter Sachsen-Anhalt",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:37:54Z",
+  "updatedAt": "2026-03-31T12:53:16Z",
   "regions": [
     {
       "regionCode": "ST",
@@ -129,7 +129,6 @@
         "rank": 16
       }
     ],
-    "lastElectionDate": "06.06.2021",
     "governmentParties": [
       "CDU",
       "SPD",
@@ -142,8 +141,35 @@
       "Freie Wähler"
     ],
     "parliament": {
-      "seatTotal": 97
-    }
+      "seatTotal": 97,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 40
+        },
+        {
+          "name": "AfD",
+          "seats": 23
+        },
+        {
+          "name": "Linke",
+          "seats": 12
+        },
+        {
+          "name": "SPD",
+          "seats": 9
+        },
+        {
+          "name": "FDP",
+          "seats": 7
+        },
+        {
+          "name": "Grüne",
+          "seats": 6
+        }
+      ]
+    },
+    "lastElectionDate": "06.06.2021"
   },
   "elections": [
     {
@@ -403,7 +429,33 @@
         "Freie Wähler"
       ],
       "parliament": {
-        "seatTotal": 97
+        "seatTotal": 97,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 40
+          },
+          {
+            "name": "AfD",
+            "seats": 23
+          },
+          {
+            "name": "Linke",
+            "seats": 12
+          },
+          {
+            "name": "SPD",
+            "seats": 9
+          },
+          {
+            "name": "FDP",
+            "seats": 7
+          },
+          {
+            "name": "Grüne",
+            "seats": 6
+          }
+        ]
       }
     }
   ]

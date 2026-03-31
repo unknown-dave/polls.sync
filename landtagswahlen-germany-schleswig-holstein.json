@@ -3,7 +3,7 @@
   "country": "Deutschland",
   "source": "Statistikamt Nord / Landeswahlleiter Schleswig-Holstein",
   "verificationMethod": "official-state-source",
-  "updatedAt": "2026-03-28T09:33:07Z",
+  "updatedAt": "2026-03-31T12:53:09Z",
   "regions": [
     {
       "regionCode": "SH",
@@ -123,7 +123,6 @@
         "rank": 15
       }
     ],
-    "lastElectionDate": "08.05.2022",
     "governmentParties": [
       "CDU",
       "Grüne"
@@ -134,8 +133,31 @@
       "SSW"
     ],
     "parliament": {
-      "seatTotal": 69
-    }
+      "seatTotal": 69,
+      "parties": [
+        {
+          "name": "CDU",
+          "seats": 34
+        },
+        {
+          "name": "Grüne",
+          "seats": 14
+        },
+        {
+          "name": "SPD",
+          "seats": 12
+        },
+        {
+          "name": "FDP",
+          "seats": 5
+        },
+        {
+          "name": "SSW",
+          "seats": 4
+        }
+      ]
+    },
+    "lastElectionDate": "08.05.2022"
   },
   "elections": [
     {
@@ -347,7 +369,29 @@
         "SSW"
       ],
       "parliament": {
-        "seatTotal": 69
+        "seatTotal": 69,
+        "parties": [
+          {
+            "name": "CDU",
+            "seats": 34
+          },
+          {
+            "name": "Grüne",
+            "seats": 14
+          },
+          {
+            "name": "SPD",
+            "seats": 12
+          },
+          {
+            "name": "FDP",
+            "seats": 5
+          },
+          {
+            "name": "SSW",
+            "seats": 4
+          }
+        ]
       }
     }
   ]
