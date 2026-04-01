@@ -3,15 +3,17 @@
   "country": "Schweiz",
   "source": "Kantonale Einzelfile-Konfiguration",
   "verificationMethod": "per-canton-file",
-  "updatedAt": "2026-03-24T10:43:55Z",
+  "updatedAt": "2026-04-01T13:00:48Z",
   "regions": [
     {
       "regionCode": "SO",
       "regionName": "Solothurn",
       "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
       "winningParty": "SVP",
       "winningPartyColor": "#247829",
-      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+      "sourceURL": "https://so.ch/verwaltung/staatskanzlei/politische-rechte/kantons-und-regierungsratswahlen-2025/",
+      "lastElectionDate": "09.03.2025"
     }
   ]
 }

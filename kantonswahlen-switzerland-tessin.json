@@ -3,15 +3,18 @@
   "country": "Schweiz",
   "source": "Kantonale Einzelfile-Konfiguration",
   "verificationMethod": "per-canton-file",
-  "updatedAt": "2026-03-24T10:43:55Z",
+  "updatedAt": "2026-04-01T13:00:48Z",
   "regions": [
     {
       "regionCode": "TI",
       "regionName": "Tessin",
       "electionType": "Kantonsparlamentswahl",
-      "winningParty": "FDP",
-      "winningPartyColor": "#216BD6",
-      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Lega",
+      "winningPartyColor": "#14786B",
+      "sourceURL": "https://www2.ti.ch/cantonali-2023/risultati-nel-cantone/liste?cHash=c6a73be009bd47b8bbc38827da067fc4&tx_tichelezioni_elezione%5Baction%5D=rispartito&tx_tichelezioni_elezione%5Bcontroller%5D=Cantonali&tx_tichelezioni_elezione%5Belezione%5D=24&tx_tichelezioni_elezione%5BnoFile%5D=000_00_1&tx_tichelezioni_elezione%5Bpotere%5D=GC&tx_tichelezioni_elezione%5Bsoggetto%5D=Cantone",
+      "lastElectionDate": "02.04.2023",
+      "winningPartyResult": 27.5
     }
   ]
 }

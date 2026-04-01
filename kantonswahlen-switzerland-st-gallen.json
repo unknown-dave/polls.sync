@@ -3,15 +3,17 @@
   "country": "Schweiz",
   "source": "Kantonale Einzelfile-Konfiguration",
   "verificationMethod": "per-canton-file",
-  "updatedAt": "2026-03-24T10:43:55Z",
+  "updatedAt": "2026-04-01T13:00:48Z",
   "regions": [
     {
       "regionCode": "SG",
       "regionName": "St. Gallen",
       "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
       "winningParty": "SVP",
       "winningPartyColor": "#247829",
-      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+      "sourceURL": "https://www.sg.ch/news/sgch_allgemein/2024/03/regierungswahlen--5-bisherige-gewaehlt--2-sitze-offen.html",
+      "lastElectionDate": "03.03.2024"
     }
   ]
 }

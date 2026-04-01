@@ -1,0 +1,277 @@
+{
+  "name": "Kantonswahlen Switzerland",
+  "country": "Schweiz",
+  "source": "Kantonale Einzelfiles",
+  "verificationMethod": "per-canton-file",
+  "updatedAt": "2026-04-01T13:00:48Z",
+  "regions": [
+    {
+      "regionCode": "ZH",
+      "regionName": "Zürich",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.zh.ch/de/politik-staat/wahlen-abstimmungen/kantons-regierungsratswahlen.html",
+      "lastElectionDate": "12.02.2023",
+      "nextElectionDate": "04.04.2027"
+    },
+    {
+      "regionCode": "BE",
+      "regionName": "Bern",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.sta.be.ch/de/start/themen/wahlen-und-abstimmungen/wahlen.html",
+      "lastElectionDate": "27.03.2022",
+      "winningPartyResult": 25.8,
+      "nextElectionDate": "29.03.2026"
+    },
+    {
+      "regionCode": "LU",
+      "regionName": "Luzern",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://wahlen.lu.ch/krat",
+      "lastElectionDate": "02.04.2023",
+      "nextElectionDate": "21.03.2027"
+    },
+    {
+      "regionCode": "UR",
+      "regionName": "Uri",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.ur.ch/newsarchiv/115849",
+      "lastElectionDate": "03.03.2024"
+    },
+    {
+      "regionCode": "SZ",
+      "regionName": "Schwyz",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.sz.ch/kanton/wahlen-abstimmungen/wahlen/kantonsrat.html/8756-8757-8804-11360-12225",
+      "lastElectionDate": "03.03.2024"
+    },
+    {
+      "regionCode": "OW",
+      "regionName": "Obwalden",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.ow.ch/archiv/88325",
+      "lastElectionDate": "13.03.2022"
+    },
+    {
+      "regionCode": "NW",
+      "regionName": "Nidwalden",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "FDP",
+      "winningPartyColor": "#216BD6",
+      "sourceURL": "https://www.nw.ch/archiv/88343",
+      "lastElectionDate": "13.03.2022"
+    },
+    {
+      "regionCode": "GL",
+      "regionName": "Glarus",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.gl.ch/public-newsroom.html/31/newsroomnews/2851/title/landratswahlen--mai--die-resultate",
+      "lastElectionDate": "15.05.2022"
+    },
+    {
+      "regionCode": "ZG",
+      "regionName": "Zug",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://zg.ch/de/staat-politik/wahlen-und-abstimmungen/archiv-wahlen/vergangene-kantonsratswahlen-2022",
+      "lastElectionDate": "02.10.2022"
+    },
+    {
+      "regionCode": "FR",
+      "regionName": "Freiburg",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.fr.ch/cha/app/gescom_com/OTA2LTEzMDE",
+      "lastElectionDate": "07.11.2021"
+    },
+    {
+      "regionCode": "SO",
+      "regionName": "Solothurn",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://so.ch/verwaltung/staatskanzlei/politische-rechte/kantons-und-regierungsratswahlen-2025/",
+      "lastElectionDate": "09.03.2025"
+    },
+    {
+      "regionCode": "BS",
+      "regionName": "Basel-Stadt",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SP",
+      "winningPartyColor": "#FF3B30",
+      "sourceURL": "https://grosserrat.bs.ch/parlamentswissen/wahlen",
+      "lastElectionDate": "20.10.2024",
+      "winningPartyResult": 29.2,
+      "nextElectionDate": "22.10.2028"
+    },
+    {
+      "regionCode": "BL",
+      "regionName": "Basel-Landschaft",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.baselland.ch/politik-und-behorden/besondere-behoerden/landeskanzlei/politische_rechte/wahlen/landratswahlen/landratswahlen-2023",
+      "lastElectionDate": "12.02.2023"
+    },
+    {
+      "regionCode": "SH",
+      "regionName": "Schaffhausen",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.sh.ch/CMS/Webseite/Kanton-Schaffhausen/Beh-rde/Regierung/Staatskanzlei-15401466-DE.html",
+      "lastElectionDate": "22.09.2024"
+    },
+    {
+      "regionCode": "AR",
+      "regionName": "Appenzell Ausserrhoden",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "FDP",
+      "winningPartyColor": "#216BD6",
+      "sourceURL": "https://ar.ch/verwaltung/kantonskanzlei/rechtsdienst/politische-rechte/wahlen-abstimmungen/archiv/wahlen-und-abstimmungen-2023/gesamterneuerungswahlen-kantonsrat-2023/",
+      "lastElectionDate": "16.04.2023"
+    },
+    {
+      "regionCode": "AI",
+      "regionName": "Appenzell Innerrhoden",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Parteilos",
+      "winningPartyColor": "#8E8E93",
+      "sourceURL": "https://www.ai.ch/politik/grosser-rat/mitglieder-36",
+      "lastElectionDate": "2024"
+    },
+    {
+      "regionCode": "SG",
+      "regionName": "St. Gallen",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.sg.ch/news/sgch_allgemein/2024/03/regierungswahlen--5-bisherige-gewaehlt--2-sitze-offen.html",
+      "lastElectionDate": "03.03.2024"
+    },
+    {
+      "regionCode": "GR",
+      "regionName": "Graubünden",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://abstimmungen.gr.ch/elections/grw2022/",
+      "lastElectionDate": "15.05.2022"
+    },
+    {
+      "regionCode": "AG",
+      "regionName": "Aargau",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://www.ag.ch/grw2024",
+      "lastElectionDate": "20.10.2024"
+    },
+    {
+      "regionCode": "TG",
+      "regionName": "Thurgau",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "SVP",
+      "winningPartyColor": "#247829",
+      "sourceURL": "https://data.tg.ch/explore/dataset/sk-stat-128/api/",
+      "lastElectionDate": "07.04.2024"
+    },
+    {
+      "regionCode": "TI",
+      "regionName": "Tessin",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Lega",
+      "winningPartyColor": "#14786B",
+      "sourceURL": "https://www2.ti.ch/cantonali-2023/risultati-nel-cantone/liste?cHash=c6a73be009bd47b8bbc38827da067fc4&tx_tichelezioni_elezione%5Baction%5D=rispartito&tx_tichelezioni_elezione%5Bcontroller%5D=Cantonali&tx_tichelezioni_elezione%5Belezione%5D=24&tx_tichelezioni_elezione%5BnoFile%5D=000_00_1&tx_tichelezioni_elezione%5Bpotere%5D=GC&tx_tichelezioni_elezione%5Bsoggetto%5D=Cantone",
+      "lastElectionDate": "02.04.2023",
+      "winningPartyResult": 27.5
+    },
+    {
+      "regionCode": "VD",
+      "regionName": "Waadt",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "FDP",
+      "winningPartyColor": "#216BD6",
+      "sourceURL": "https://www.vd.ch/etat-droit-finances/votations-et-elections/informations-utiles",
+      "lastElectionDate": "20.03.2022",
+      "nextElectionDate": "28.02.2027"
+    },
+    {
+      "regionCode": "VS",
+      "regionName": "Wallis",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.vs.ch/web/votel",
+      "lastElectionDate": "02.03.2025"
+    },
+    {
+      "regionCode": "NE",
+      "regionName": "Neuenburg",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "FDP",
+      "winningPartyColor": "#216BD6",
+      "sourceURL": "https://www.ne.ch/medias/Pages/2025-03-23-election-cantonales-grand-conseil.aspx",
+      "lastElectionDate": "23.03.2025"
+    },
+    {
+      "regionCode": "GE",
+      "regionName": "Genf",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "FDP",
+      "winningPartyColor": "#216BD6",
+      "sourceURL": "https://www.ge.ch/elections/20230402/GC/",
+      "lastElectionDate": "02.04.2023"
+    },
+    {
+      "regionCode": "JU",
+      "regionName": "Jura",
+      "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
+      "winningParty": "Mitte",
+      "winningPartyColor": "#F08F24",
+      "sourceURL": "https://www.jura.ch/fr/Autorites/Elections-2025/Resultats-de-l-election-du-Parlement.html",
+      "lastElectionDate": "19.10.2025"
+    }
+  ]
+}

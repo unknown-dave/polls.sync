@@ -3,15 +3,17 @@
   "country": "Schweiz",
   "source": "Kantonale Einzelfile-Konfiguration",
   "verificationMethod": "per-canton-file",
-  "updatedAt": "2026-03-24T10:43:55Z",
+  "updatedAt": "2026-04-01T13:00:48Z",
   "regions": [
     {
       "regionCode": "GL",
       "regionName": "Glarus",
       "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
       "winningParty": "Mitte",
       "winningPartyColor": "#F08F24",
-      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+      "sourceURL": "https://www.gl.ch/public-newsroom.html/31/newsroomnews/2851/title/landratswahlen--mai--die-resultate",
+      "lastElectionDate": "15.05.2022"
     }
   ]
 }

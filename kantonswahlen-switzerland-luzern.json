@@ -3,15 +3,18 @@
   "country": "Schweiz",
   "source": "Kantonale Einzelfile-Konfiguration",
   "verificationMethod": "per-canton-file",
-  "updatedAt": "2026-03-24T10:43:55Z",
+  "updatedAt": "2026-04-01T13:00:48Z",
   "regions": [
     {
       "regionCode": "LU",
       "regionName": "Luzern",
       "electionType": "Kantonsparlamentswahl",
+      "mapColorBasis": "staerkste Kraft nach letzter Kantonsparlamentswahl",
       "winningParty": "Mitte",
       "winningPartyColor": "#F08F24",
-      "sourceURL": "https://www.parlament.ch/de/organe/legislative/kantonsparlamente/kantonsparlamente"
+      "sourceURL": "https://wahlen.lu.ch/krat",
+      "lastElectionDate": "02.04.2023",
+      "nextElectionDate": "21.03.2027"
     }
   ]
 }
