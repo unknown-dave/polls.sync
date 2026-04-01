@@ -1,0 +1,65 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "burgenland",
+      "regionCode": "BGL",
+      "regionName": "Burgenland",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "19.01.2025",
+      "winningParty": "SPÖ",
+      "winningPartyColor": "#E10012",
+      "winningPartyResult": 46.38,
+      "nextElectionDate": "2030",
+      "sourceURL": "https://wahl.bgld.gv.at/wahlen/lt20250119x.nsf/index.xsp?key=SA_PA_AL_00004",
+      "partyResults": [
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 46.38,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 23.09,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 21.98,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 5.66,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 2.07,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 0.81,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.0,
+          "colorHex": "#A31F1F"
+        }
+      ]
+    }
+  ]
+}

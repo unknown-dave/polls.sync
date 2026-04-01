@@ -1,0 +1,65 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "vorarlberg",
+      "regionCode": "VBG",
+      "regionName": "Vorarlberg",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "13.10.2024",
+      "winningParty": "ÖVP",
+      "winningPartyColor": "#111111",
+      "winningPartyResult": 38.3,
+      "nextElectionDate": "2029",
+      "sourceURL": "https://apps.vorarlberg.at/wahlen/data/LT/endg_amtliches_Ergebnis_plus_Sprengel_Landtagswahl2024.pdf",
+      "partyResults": [
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 38.3,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 28.0,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 12.4,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 9.1,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 8.9,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 2.5,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.8,
+          "colorHex": "#A31F1F"
+        }
+      ]
+    }
+  ]
+}

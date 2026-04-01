@@ -1,0 +1,65 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "niederoesterreich",
+      "regionCode": "NOE",
+      "regionName": "Niederösterreich",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "29.01.2023",
+      "winningParty": "ÖVP",
+      "winningPartyColor": "#111111",
+      "winningPartyResult": 39.93,
+      "nextElectionDate": "2028",
+      "sourceURL": "https://www.noe.gv.at/wahlen/L20231/Index.html",
+      "partyResults": [
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 39.93,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 24.19,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 20.65,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 7.59,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 6.67,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 0.59,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.38,
+          "colorHex": "#A31F1F"
+        }
+      ]
+    }
+  ]
+}

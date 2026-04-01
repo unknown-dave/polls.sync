@@ -1,0 +1,71 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "wien",
+      "regionCode": "WIE",
+      "regionName": "Wien",
+      "electionType": "Landtags- und Gemeinderatswahl",
+      "lastElectionDate": "27.04.2025",
+      "winningParty": "SPÖ",
+      "winningPartyColor": "#E10012",
+      "winningPartyResult": 39.38,
+      "nextElectionDate": "2030",
+      "sourceURL": "https://www.wien.gv.at/wahlergebnis/de/GR251/index.html",
+      "partyResults": [
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 39.38,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 20.35,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 14.52,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 10.0,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 9.65,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 4.06,
+          "colorHex": "#A31F1F"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 2.04,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "LINKS",
+          "name": "LINKS",
+          "value": 0.0,
+          "colorHex": "#BF26D3"
+        }
+      ]
+    }
+  ]
+}

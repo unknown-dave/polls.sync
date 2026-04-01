@@ -1,0 +1,71 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "oberoesterreich",
+      "regionCode": "OOE",
+      "regionName": "Oberösterreich",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "26.09.2021",
+      "winningParty": "ÖVP",
+      "winningPartyColor": "#111111",
+      "winningPartyResult": 37.61,
+      "nextElectionDate": "2027",
+      "sourceURL": "https://www.land-oberoesterreich.gv.at/Mediendateien/Formulare/Dokumente%20PraesD%20Abt_Stat/LT21-Wahlbericht.pdf",
+      "partyResults": [
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 37.61,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 19.77,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 18.58,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 12.32,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "MFG",
+          "name": "MFG",
+          "value": 6.23,
+          "colorHex": "#D97805"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 4.23,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.81,
+          "colorHex": "#A31F1F"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 0.45,
+          "colorHex": "#D1D5DB"
+        }
+      ]
+    }
+  ]
+}

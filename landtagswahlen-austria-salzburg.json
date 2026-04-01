@@ -1,0 +1,65 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "salzburg",
+      "regionCode": "SBG",
+      "regionName": "Salzburg",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "23.04.2023",
+      "winningParty": "ÖVP",
+      "winningPartyColor": "#111111",
+      "winningPartyResult": 30.37,
+      "nextElectionDate": "2028",
+      "sourceURL": "https://www.salzburg.gv.at/fileadmin/Dateien/Politik/Landtag/Landtagsfolder_2025.pdf",
+      "partyResults": [
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 30.37,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 25.75,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 17.87,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 11.66,
+          "colorHex": "#A31F1F"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 8.2,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 4.2,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 1.95,
+          "colorHex": "#D1D5DB"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "tirol",
+      "regionCode": "TIR",
+      "regionName": "Tirol",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "25.09.2022",
+      "winningParty": "ÖVP",
+      "winningPartyColor": "#111111",
+      "winningPartyResult": 34.71,
+      "nextElectionDate": "2027",
+      "sourceURL": "https://wahlen.tirol.gv.at/landtagswahl_2022/index.html",
+      "partyResults": [
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 34.71,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 18.84,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 17.48,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "FRITZ",
+          "name": "Liste Fritz",
+          "value": 9.9,
+          "colorHex": "#B58C2A"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 9.2,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 6.29,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 2.91,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.67,
+          "colorHex": "#A31F1F"
+        }
+      ]
+    }
+  ]
+}

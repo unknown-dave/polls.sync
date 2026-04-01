@@ -1,0 +1,71 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "steiermark",
+      "regionCode": "STM",
+      "regionName": "Steiermark",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "24.11.2024",
+      "winningParty": "FPÖ",
+      "winningPartyColor": "#1257B5",
+      "winningPartyResult": 34.76,
+      "nextElectionDate": "2029",
+      "sourceURL": "https://www.verwaltung.steiermark.at/cms/ziel/74836525/DE/",
+      "partyResults": [
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 34.76,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 26.81,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 21.36,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 6.17,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 6.0,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 4.47,
+          "colorHex": "#A31F1F"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 0.35,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "MFG",
+          "name": "MFG",
+          "value": 0.08,
+          "colorHex": "#D97805"
+        }
+      ]
+    }
+  ]
+}

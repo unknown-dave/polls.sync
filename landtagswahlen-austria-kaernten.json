@@ -1,0 +1,71 @@
+{
+  "name": "Landtagswahlen Austria",
+  "country": "Österreich",
+  "source": "Official state election results portals",
+  "verificationMethod": "official-state-election-results",
+  "updatedAt": "2026-04-01T13:46:41Z",
+  "regions": [
+    {
+      "fileSlug": "kaernten",
+      "regionCode": "KTN",
+      "regionName": "Kärnten",
+      "electionType": "Landtagswahl",
+      "lastElectionDate": "05.03.2023",
+      "winningParty": "SPÖ",
+      "winningPartyColor": "#E10012",
+      "winningPartyResult": 38.94,
+      "nextElectionDate": "2028",
+      "sourceURL": "https://www.ktn.gv.at/wahlen/ltwahl2023/lt2023_20000.html",
+      "partyResults": [
+        {
+          "code": "SPOE",
+          "name": "SPÖ",
+          "value": 38.94,
+          "colorHex": "#E10012"
+        },
+        {
+          "code": "FPOE",
+          "name": "FPÖ",
+          "value": 24.53,
+          "colorHex": "#1257B5"
+        },
+        {
+          "code": "OEVP",
+          "name": "ÖVP",
+          "value": 17.04,
+          "colorHex": "#111111"
+        },
+        {
+          "code": "TEAM_KAERNTEN",
+          "name": "Team Kärnten",
+          "value": 10.08,
+          "colorHex": "#F59E0B"
+        },
+        {
+          "code": "GRUENE",
+          "name": "Grüne",
+          "value": 3.85,
+          "colorHex": "#2F9E44"
+        },
+        {
+          "code": "SONSTIGE",
+          "name": "Sonst.",
+          "value": 2.85,
+          "colorHex": "#D1D5DB"
+        },
+        {
+          "code": "NEOS",
+          "name": "NEOS",
+          "value": 2.59,
+          "colorHex": "#E61F8C"
+        },
+        {
+          "code": "KPOE",
+          "name": "KPÖ",
+          "value": 0.12,
+          "colorHex": "#A31F1F"
+        }
+      ]
+    }
+  ]
+}
